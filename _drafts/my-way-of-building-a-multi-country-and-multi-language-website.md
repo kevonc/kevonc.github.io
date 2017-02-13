@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "My way of building a multi country and multi language website"
-date: 2017-01-07 02:49
 categories: webdev
 tagline: ""
 tags: [coding, rails, global]
