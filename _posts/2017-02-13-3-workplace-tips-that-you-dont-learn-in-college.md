@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "3 Workplace Tips that You Don’t Learn in College"
+description: "The work we do is a reflection of who we are. These are the tips that will help you excel at your workplace."
 date: 2017-02-13 14:08
 categories: career learning life-lessons
 tagline: "The work we do is a reflection of who we are."
