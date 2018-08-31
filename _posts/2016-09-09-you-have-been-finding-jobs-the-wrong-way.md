@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "You Have Been Finding Jobs The Wrong Way"
+description: "How to increase the chance of landing your next job"
 date: 2016-09-09 21:49
 categories: career
 tagline: "If there is a will, there is a way."

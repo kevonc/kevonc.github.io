@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How We Define Our Company Culture at First Code Academy"
+description: "A more convincing way of measuring a company's success is through its impact on the world and its employee’s happiness, Kevon talks about how we define a company culture at First Code Academy."
 date: 2016-08-28 21:00
 categories: startup
 tagline: "I see your culture as fun empowering bold and unafraid; approachable collaborative warm yet cool and hip; transparent open forward looking. - A Parent of First Code Academy"
