@@ -109,6 +109,20 @@ Here comes the best way to resonate with your audience - get on the same side! D
 <img src="{{site.baseurl}}/assets/images/posts/gerhardt-12-min.png" alt="" class="full-image">
 
 
+## Bonus: organize your LinkedIn network
+
+This is not from Dave, but I must bring it up because I see quite a lot of people writing better yet still don't get the engagement they want.
+
+You want to dedicate time to:
+
+1. Remove irrelevant Linkedin connections
+2. Clean up your feed by "Unfollow XXX"
+3. Now you only see relevant connections & your target audience
+4. Add or follow more target audience
+5. Interact with their posts genuinely
+
+By doing this consistently, you'll start seeing results coming back to your posts.
+
 ## How I improved my engagement results
 
 Obviously, here I'm only able to capture a small part of his mastermind. I think you're better off following Dave's <a href="https://twitter.com/davegerhardt" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/davegerhardt/" target="_blank">LinkedIn</a> yourself to learn more. 
