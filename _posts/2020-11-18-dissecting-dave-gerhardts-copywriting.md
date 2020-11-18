@@ -109,7 +109,7 @@ Here comes the best way to resonate with your audience - get on the same side! D
 <img src="{{site.baseurl}}/assets/images/posts/gerhardt-12-min.png" alt="" class="full-image">
 
 
-## Bonus: organize your LinkedIn network
+## Bonus: writing well is not enough on LinkedIn
 
 This is not from Dave, but I must bring it up because I see quite a lot of people writing better yet still don't get the engagement they want.
 
