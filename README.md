@@ -1,4 +1,4 @@
-# kevon's blog
+# Kevon Cheung
 
 sharing about life, startup, and code
 Everyday is a lesson when your knowledge and experience contribute to it.

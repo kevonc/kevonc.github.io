@@ -2,7 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }} | Kevon Cheung</title>
+    {% if page.title %}
+      <title>{{ page.title }} | Kevon Cheung</title>
+    {% else %}
+      <title>Kevon Cheung</title>
+    {% endif %}
     {% if page.description %}
       <meta name="description" content="{{ page.description }}">
       <meta property="og:description" content="{{ page.description }}" />

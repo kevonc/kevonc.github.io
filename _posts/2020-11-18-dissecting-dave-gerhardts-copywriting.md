@@ -2,7 +2,7 @@
 layout: post
 title: "Why No One Reads What You Write: Dissecting Dave Gerhardt's Copywriting"
 date: 2020-11-18 08:00
-categories: 
+categories: growth
 tags: []
 ---
 
