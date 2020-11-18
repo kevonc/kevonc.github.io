@@ -125,7 +125,7 @@ By doing this consistently, you'll start seeing results coming back to your post
 
 ## How I improved my engagement results
 
-Obviously, here I'm only able to capture a small part of his mastermind. I think you're better off following Dave's <a href="https://twitter.com/davegerhardt" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/davegerhardt/" target="_blank">LinkedIn</a> yourself to learn more. 
+Obviously, here I'm only able to capture a small part of his mastermind. You'll learn much more if you follow Dave's <a href="https://twitter.com/davegerhardt" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/davegerhardt/" target="_blank">LinkedIn</a>. 
 
 After I picked up these tactics from Dave. I put them into practice and saw my engagement numbers go up and up. Within 5 months, I was able to achieve 5-10x growth on my regular LinkedIn posts.
 
