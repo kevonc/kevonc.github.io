@@ -104,7 +104,7 @@ To keep an active presence, Dave tweets at least once a day, and posts on Linked
 
 > ### He speaks the annoying truth
 
-Here comes the best way to resonate with your audience - get on the same side! Dave points out annoying things he faces in his life/work and it feels like a friend telling you over lunch, so you jump into the conversation.
+Here comes the best way to resonate with your audience - get on the same side! Dave points out annoying things he faces in his life/work and it feels like a friend telling you over lunch, so you jump into the conversation. 3,106 reactions and 723 comments!
 
 <img src="{{site.baseurl}}/assets/images/posts/gerhardt-12-min.png" alt="" class="full-image">
 
