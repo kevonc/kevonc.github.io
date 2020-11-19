@@ -131,7 +131,7 @@ After I picked up these tactics from Dave. I put them into practice and saw my e
 
 <img src="{{site.baseurl}}/assets/images/posts/gerhardt-kevons-results.png" alt="" class="full-image">
 
-I hope these are helpful, and please share if you think there are more I should add to this article.
+I hope these are helpful, and please share with me if you think there are more I should add to this article.
 
 These days, I'm starting to write and share my learnings in product & growth. If you enjoy this, I'd appreciate to hear from you so that I can improve. And of course, subscribe below if you want to hear from me again. Thanks!
 
