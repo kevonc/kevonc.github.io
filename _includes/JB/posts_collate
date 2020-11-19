@@ -45,7 +45,7 @@ Usage:
           </p>
           <ul class="post-cat">
             {% for category in post.categories %}
-              <li>{{ category }}</li>
+              <li><a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref">{{ category }}</a></li>
             {% endfor %}
             </ul>
         </div>

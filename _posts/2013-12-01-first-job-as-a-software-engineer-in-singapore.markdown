@@ -2,7 +2,7 @@
 layout: post
 title: "First Job as a Software Engineer in Singapore"
 date: 2013-12-01 15:59
-categories: webdev
+categories: work
 tagline: "a fresh start to a much anticipated future"
 tags: [software development, singapore]
 ---

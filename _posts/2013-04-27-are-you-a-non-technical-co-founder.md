@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Are you a non technical co founder?"
+title: "Are You A Non-technical Co-founder?"
 date: 2013-04-27 14:00
-categories: startups
+categories: startup
 tagline: "everyone is looking for someone to build his or her dream"
 tags: [entrepreneurship, startups, advice]
 ---

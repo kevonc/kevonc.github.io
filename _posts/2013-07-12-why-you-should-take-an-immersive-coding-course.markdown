@@ -2,7 +2,7 @@
 layout: post
 title: "Why You Should Take An Immersive Coding Course"
 date: 2013-07-12 07:39
-categories: webdev
+categories: work
 tagline: "it does not get you to expertise, yet it jumpstarts you"
 tags: [wdi, learning, coding]
 ---

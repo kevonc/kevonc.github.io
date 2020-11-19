@@ -2,7 +2,7 @@
 layout: post
 title: "Crushing Customer Development in Singapore"
 date: 2013-03-26 14:00
-categories: startups
+categories: startup
 tagline: "the goal of a #leanstartup is to learn what is valuable to the customer"
 tags: [entrepreneurship, lean startup, reflection, sharing]
 ---

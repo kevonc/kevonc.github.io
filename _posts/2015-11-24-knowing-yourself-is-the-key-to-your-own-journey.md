@@ -3,7 +3,7 @@ layout: post
 title: "Knowing Yourself is The Key to Your Own Journey"
 description: "How to find your own passion and direction for life?"
 date: 2015-11-24 22:45
-categories: life career
+categories: self
 tagline: "i don't have success yet, but i feel like i'm growing"
 tags: [advice, career, startup, working, self-reflection, discovery, passion, growth]
 ---

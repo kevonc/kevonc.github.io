@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "It is why and how you do it that matters"
+title: "It Is Why And How You Do It That Matters"
 date: 2012-10-21 14:00
-categories: life
+categories: self
 tagline: "life is too short not to try everything"
 tags: [life, advice, reflection]
 ---

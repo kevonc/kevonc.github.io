@@ -2,7 +2,7 @@
 layout: post
 title: "Appreciation"
 date: 2013-06-29 19:57
-categories: webdev
+categories: self
 tags: [wdi, reflection]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "First Hackathon Experience"
 date: 2013-07-22 19:14
-categories: webdev
+categories: self
 tagline: "i failed to pull an all-nighter, so i went to sleep for 2 hours"
 tags: [hackathon, coding, reflection]
 ---

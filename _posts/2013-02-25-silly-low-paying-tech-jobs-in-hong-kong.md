@@ -2,7 +2,7 @@
 layout: post
 title: "Silly Low Paying Tech Jobs in Hong Kong"
 date: 2013-02-25 14:00
-categories: webdev
+categories: self
 tags: [hong kong, software development, career]
 ---
 

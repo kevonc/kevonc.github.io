@@ -2,7 +2,7 @@
 layout: post
 title: "Chasing Dream in New York City"
 date: 2013-06-05 19:49
-categories: anecdote
+categories: self
 tagline: "ask yourself if what you are doing today is getting you closer to where you want to be tomorrow"
 tags: [wdi]
 ---

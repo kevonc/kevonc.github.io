@@ -2,7 +2,7 @@
 layout: post
 title: "Project Kick with Data Visualization"
 date: 2013-08-13 08:15
-categories: webdev projects
+categories: self
 tagline: "the world is overwhelmed with data to do more powerful things"
 tags: [kickstarter, data visualization, wdi]
 ---
@@ -19,13 +19,13 @@ Those are the two main components of Project Kick (<a href="http://projectkick.u
 Looking at the code now, there are a ton of rooms for improvement. Nevertheless, I'm extremely happy and proud of the project given the production time of one week. I'm excited to show this to everyone and even people at Kickstarter! I slowly come to realize that I enjoy front-end work more, and it is a good sign that I've figured out! On a side note, my personal website <a href="http://kevoncheung.com" target="_blank">kevoncheung.com</a> has finally come to life. It is very simple but good enough at this point as version 1.0.
 
 
-###Appendices
-####Larry Buchanan's Projects
-#####<a href="http://www.newyorker.com/sandbox/business/citi-bike.html" target="_blank">http://www.newyorker.com/sandbox/business/citi-bike.html</a>
-#####<a href="http://www.newyorker.com/sandbox/business/ncaa.html" target="_blank">http://www.newyorker.com/sandbox/business/ncaa.html</a>
+## Appendices
+### Larry Buchanan's Projects
+- <a href="http://www.newyorker.com/sandbox/business/citi-bike.html" target="_blank">http://www.newyorker.com/sandbox/business/citi-bike.html</a>
+- <a href="http://www.newyorker.com/sandbox/business/ncaa.html" target="_blank">http://www.newyorker.com/sandbox/business/ncaa.html</a>
 
-####D3
-#####<a href="http://mbostock.github.io/d3/tutorial/bar-2.html" target="_blank">http://mbostock.github.io/d3/tutorial/bar-2.html</a>
-#####<a href="http://bost.ocks.org/mike/join/" target="_blank">http://bost.ocks.org/mike/join/</a>
-#####<a href="http://thecodingtutorials.blogspot.com/2012/07/introduction-to-d3.html" target="_blank">http://thecodingtutorials.blogspot.com/2012/07/introduction-to-d3.html</a>
-#####<a href="http://www.fascinatedwithsoftware.com/blog/post/2012/09/01/Visualizing-Data-with-D3.aspx" target="_blank">http://www.fascinatedwithsoftware.com/blog/post/2012/09/01/Visualizing-Data-with-D3.aspx</a>
+### D3
+- <a href="http://mbostock.github.io/d3/tutorial/bar-2.html" target="_blank">http://mbostock.github.io/d3/tutorial/bar-2.html</a>
+- <a href="http://bost.ocks.org/mike/join/" target="_blank">http://bost.ocks.org/mike/join/</a>
+- <a href="http://thecodingtutorials.blogspot.com/2012/07/introduction-to-d3.html" target="_blank">http://thecodingtutorials.blogspot.com/2012/07/introduction-to-d3.html</a>
+- <a href="http://www.fascinatedwithsoftware.com/blog/post/2012/09/01/Visualizing-Data-with-D3.aspx" target="_blank">http://www.fascinatedwithsoftware.com/blog/post/2012/09/01/Visualizing-Data-with-D3.aspx</a>
