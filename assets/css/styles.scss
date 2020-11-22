@@ -146,8 +146,11 @@ ul.posts {
 }
 
 .social-icon {
-  width: 40px;
-  margin: 12px 6px;
+  width: 24px;
+  margin: 12px 12px;
+  &.linkedin {
+    width: 22px;
+  }
 }
 
 
