@@ -11,7 +11,8 @@
     {% if page.description %}
       <meta name="description" content="{{ page.description }}">
       <meta property="og:description" content="{{ page.description }}" />
-      <meta name="date" content="{{ page.date | date: '%Y-%m-%d' }}">
+      <meta name="publish_date" content="{{ page.date | date: '%Y-%m-%d' }}">
+      <meta name="og:publish_date" content="{{ page.date | date: '%Y-%m-%d' }}">
     {% else %}
       <meta name="description" content="Everyday is a lesson. This is where I share about startup, product, and growth.">
       <meta property="og:description" content="Everyday is a lesson. This is where I share about startup, product, and growth." />
