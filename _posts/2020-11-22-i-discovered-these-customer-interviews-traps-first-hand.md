@@ -90,9 +90,7 @@ Lesson learned. I should have set up a better plan to follow up with these inter
 
 ## User interviews are hard
 
-Because you're dealing with human beings, and each of them thinks differently.
-
-To extract useful insights requires all the important skills like analytical listening and imagination. 
+Because you're dealing with human beings, and each of them thinks differently. And to extract useful insights requires all the important skills like analytical listening and imagination. 
 
 I don’t think anyone could get it right the first time, and I certainly learned it the hard way.
 
