@@ -7,22 +7,25 @@
     {% else %}
       <title>Kevon Cheung</title>
     {% endif %}
+    
     {% if page.description %}
       <meta name="description" content="{{ page.description }}">
       <meta property="og:description" content="{{ page.description }}" />
+      <meta name="date" content="{{ page.date | date_to_long_string }}">
     {% else %}
       <meta name="description" content="Everyday is a lesson. This is where I share about startup, product, and growth.">
       <meta property="og:description" content="Everyday is a lesson. This is where I share about startup, product, and growth." />
     {% endif %}
+
     <meta name="author" content="{{ site.author.name }}">
 
     <!-- Open Graph data -->
     <meta property="og:site_name" content="Kevon Cheung" />
-    <meta property="og:title" content="Kevon Cheung &mdash;{{ page.title }}" />
+    <meta property="og:title" content="Kevon Cheung &mdash; {{ page.title }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://kevoncheung.com{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:locale" content="en_US" />
-    <meta property="og:image" content="http://localhost:4000/assets/images/kevon-2019.jpg" />
+    <meta property="og:image" content="https://kevoncheung.com/assets/images/kevon-2019.jpg" />
 
     <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
