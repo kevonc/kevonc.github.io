@@ -7,6 +7,7 @@ require "bundler/setup"
 require "jekyll"
 
 GITHUB_REPONAME = "kevonc/kevonc.github.io"
+ENV["JEKYLL_ENV"] = "production"
 
 SOURCE = "."
 CONFIG = {
