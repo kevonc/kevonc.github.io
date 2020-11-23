@@ -60,7 +60,7 @@ body {
 footer {
   text-align: center;
   padding: 20px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   color: $colorBlack;
   a {
     color: $colorBlack;
@@ -240,12 +240,59 @@ ul.posts {
   margin-top: 40px;
 }
 
-// post pagination
 .pagination {
-  margin: 20px 0 0 0;
-  ul {
-    list-style: none;
-    margin-left: -40px;
+  display: flex;
+  margin-top: 70px;
+  margin-bottom: 50px;
+  div.prev_box, div.next_box {
+    flex: 1 1 0;
+    a {
+      display: block;
+      color: #000;
+      font-family: 'Nunito', Lato, sans-serif;
+      &:hover {
+        text-decoration: none;
+        color: #588b8b;
+      }
+      &:hover > .icon_next {
+        background-image: url("../images/icon_next_hover.png");
+      }
+      &:hover > .icon_prev {
+        background-image: url("../images/icon_prev_hover.png");
+      }
+    }
+    h3 {
+      margin: 10px 0;
+      line-height: 1.3em;
+      font-weight: 700;
+    }
+    p.date {
+      font-size: 0.8em;
+    }
+  }
+  div.prev_box {
+    img {
+      display: inline-block;
+    }
+  }
+  div.next_box {
+    text-align: right;
+    img {
+      display: inline-block;
+    }
+  }
+  .icon_prev, .icon_next {
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+  }
+  .icon_prev {
+    background-image: url("../images/icon_prev.png");
+    background-repeat: no-repeat;
+  }
+  .icon_next {
+    background-image: url("../images/icon_next.png");
+    background-repeat: no-repeat;
   }
 }
 

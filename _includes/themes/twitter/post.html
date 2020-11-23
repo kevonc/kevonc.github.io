@@ -15,32 +15,29 @@
   </div>
 
   <div class="pagination">
-    <ul>
-    {% if page.next %}
-      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next Post: {{ page.next.title }}</a></li>
-    {% endif %}
     {% if page.previous %}
-      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">Last Post: {{ page.previous.title }}</a></li>
+      <div class="prev_box">
+        <div class="prev">
+          <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">
+            <div class="icon_prev"></div>
+            <h3>{{ page.previous.title }}</h3>
+            <p class="date">{{ page.previous.date | date: "%B %-d, %Y" }}</p>
+          </a>
+        </div>
+      </div>
     {% endif %}
-    </ul>
-  </div>
 
-  <div class="tag-boxes">
-    {% unless page.categories == empty %}
-      <ul class="tag-box inline">
-        <li><span class="glyphicon glyphicon-leaf"></span></li>
-        {% assign categories_list = page.categories %}
-        {% include JB/categories_list %}
-      </ul>
-    {% endunless %}
-
-    {% unless page.tags == empty %}
-      <ul class="tag-box inline">
-        <li><span class="glyphicon glyphicon-tags"></span></li>
-        {% assign tags_list = page.tags %}
-        {% include JB/tags_list %}
-      </ul>
-    {% endunless %}
+    {% if page.next %}
+      <div class="next_box">
+        <div class="next">
+          <a href="{{ page.next.url }}" title="{{ page.next.title }}">
+            <div class="icon_next"></div>
+            <h3>{{ page.next.title }}</h3>
+            <p class="date">{{ page.next.date | date: "%B %-d, %Y" }}</p>
+          </a>
+        </div>
+      </div>
+    {% endif %}
   </div>
 
   {% include JB/comments %}
