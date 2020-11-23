@@ -55,7 +55,7 @@ Most of us understand that.
 
 But when I was actually talking to customers, it was a very different story.
 
-I was perfectly aware that I shouldn’t ask them for ideas (learnings from the Mom Test). We also had our own solution in mind already. But it was extremely hard to stay away from their constant “feature requests”.
+I was perfectly aware that I shouldn’t ask them for ideas (learnings from <a href="http://momtestbook.com/" target="_blank">the Mom Test</a>, my favorite user interview book). We also had our own solution in mind already. But it was extremely hard to stay away from their constant “feature requests”.
 
 When people learned more about Toasty, it was natural for them to tell me how they would use Toasty only if we had A, B, and C.
 
@@ -88,8 +88,6 @@ Lesson learned. I should have set up a better plan to follow up with these inter
 ## User interviews are hard
 
 Because you're dealing with human beings, and each of them thinks differently. And to extract useful insights requires all the important skills like analytical listening and imagination.
-
-So many people have written about the best practices of running them. My favorite is definitely <a href="http://momtestbook.com/" target="_blank">the Mom Test by Rob Fitzpatrick</a> because it is easy to read and straight to the point.
 
 Honestly, no one could get it right the first time, and I certainly learned it the hard way.
 
