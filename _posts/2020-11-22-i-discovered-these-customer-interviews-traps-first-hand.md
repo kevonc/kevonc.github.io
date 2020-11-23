@@ -71,17 +71,15 @@ Lesson learned. I needed to break down the insights from customers into 2 tracks
 
 ## Trap #4 - I didn’t have a proper post-interview tactic
 
-One of the rules of user interviews is to talk to people from the same segment. This way you can discover common patterns for the same type of people.
+One of the rules of user interviews is to talk to people from the same segment. This way you can discover common patterns from the same type of people.
 
-And once you get to know them, they become the leads that you can convert in the near future.
+And once you get to know them, the best part is they become leads that you can convert when you're ready.
 
 I was talking to almost a dozen people every week, and I didn’t capitalize on this opportunity to help us generate leads.
 
 I talked to people, and then we forgot about each other.
 
 What a waste. After all, I had already turned cold leads into warm leads.
-
-I wish there were some sort of automatic CRM-way that I could easily follow up with them.
 
 In early-stage startups, everything we do has to be super impactful because we are competing against time. One thing should lead to another, creating not linear, but exponential values. There is a concept called "System Thinking” and I plan to write about it later on!
 
