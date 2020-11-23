@@ -4,17 +4,16 @@ title: "I Discovered These Customer Interviews Traps First-hand 💣 "
 description: We follow best practices to run our user interviews. But to be excellent at it, I discovered these frustrating traps that we should all try to avoid.
 date: 2020-11-22 11:04
 categories: product
+excerpt_separator: <!--more-->
 tags: []
 ---
 
-If you’re a founder or a product person in an early-stage startup, you know how important it is to run customer development interviews (known as user interviews).
+As a founder, are you obsessed with user interviews?
 
-You run them to talk to your target customers, to uncover pain points, and to understand how they’re solving these problems at the moment.
+You likely have already read about the best practices to do them.	
 
-So many people have written about the best practices of running them. My favorite is definitely <a href="http://momtestbook.com/" target="_blank">the Mom Test by Rob Fitzpatrick</a> because it is easy to read and straight to the point. 
-
-But having done 200+ user interviews in the last 18 months at Toasty, I discovered that it wasn't enough to just follow best practices, I also had to be aware of the many frustrating traps in the process. 
-
+But having done 200+ user interviews in the last 18 months, I discovered that following the best practices wasn't enough, there were these frustrating traps that I learned to avoid. 
+<!--more-->
 And here are the top 4 for me.
 
 ## Trap #1 - I was overdoing these interviews and lost sight of the meaning
@@ -90,8 +89,12 @@ Lesson learned. I should have set up a better plan to follow up with these inter
 
 ## User interviews are hard
 
-Because you're dealing with human beings, and each of them thinks differently. And to extract useful insights requires all the important skills like analytical listening and imagination. 
+Because you're dealing with human beings, and each of them thinks differently. And to extract useful insights requires all the important skills like analytical listening and imagination.
 
-I don’t think anyone could get it right the first time, and I certainly learned it the hard way.
+So many people have written about the best practices of running them. My favorite is definitely <a href="http://momtestbook.com/" target="_blank">the Mom Test by Rob Fitzpatrick</a> because it is easy to read and straight to the point.
 
-Finally, there was a bigger lesson here for me - to be mindful of the things that I spent time on.
+Honestly, no one could get it right the first time, and I certainly learned it the hard way.
+
+What are some other user interview traps that you've encountered?
+
+

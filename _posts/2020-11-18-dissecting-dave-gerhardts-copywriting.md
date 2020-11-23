@@ -4,11 +4,16 @@ title: "Why No One Reads What You Write: Dissecting Dave Gerhardt's Copywriting"
 description: To boost my LinkedIn engagement numbers, I studied Dave Gerhardt's copywriting game and tried to replicate the same tactics.
 date: 2020-11-18 08:00
 categories: growth
+excerpt_separator: <!--more-->
 tags: []
 ---
 
-Back in March 2020, I was very active on my LinkedIn trying to engage my network. Soon I realized the engagement numbers weren't moving at all. I spent some time looking at the best marketer I knew, Dave Gerhardt, and studied how he did it. And I learned that it all came down to copywriting skills - which I sucked at. I was determined to get that fixed.
+Back in March 2020, I was very active on my LinkedIn trying to engage my network. 
 
+Soon I realized the engagement numbers weren't moving at all. 
+
+I spent some time looking at the best marketer I knew, Dave Gerhardt, and studied how he did it. And I learned that it all came down to copywriting skills - which I sucked at. I was determined to get that fixed.
+<!--more-->
 ## Why you need to brush up your copywriting
 
 When you look at the best influencers in the world and how they drive thousands, if not hundreds, of engagement, it is always: can you relate to people quickly?
