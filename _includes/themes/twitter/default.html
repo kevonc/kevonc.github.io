@@ -4,8 +4,10 @@
     <meta charset="utf-8">
     {% if page.title %}
       <title>Kevon Cheung &mdash; {{ page.title }}</title>
+      <meta property="og:title" content="Kevon Cheung &mdash; {{ page.title }}" />
     {% else %}
       <title>Kevon Cheung</title>
+      <meta property="og:title" content="Kevon Cheung" />
     {% endif %}
 
     {% if page.description %}
@@ -22,7 +24,6 @@
 
     <!-- Open Graph data -->
     <meta property="og:site_name" content="Kevon Cheung" />
-    <meta property="og:title" content="Kevon Cheung &mdash; {{ page.title }}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://kevoncheung.com{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
     <meta property="og:locale" content="en_US" />
