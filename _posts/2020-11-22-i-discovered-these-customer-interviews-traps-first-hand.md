@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 tags: []
 ---
 
-As a founder, are you obsessed with user interviews?
+As a founder or product leader, are you obsessed with user interviews?
 
 You likely have already read about the best practices to do them.	
 
