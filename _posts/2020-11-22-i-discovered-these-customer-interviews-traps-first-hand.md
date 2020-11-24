@@ -91,6 +91,6 @@ Because you're dealing with human beings, and each of them thinks differently. A
 
 Honestly, no one could get it right the first time, and I certainly learned it the hard way.
 
-What are some other user interview traps that you've encountered?
+What are some other user interviews traps that you've encountered?
 
 
