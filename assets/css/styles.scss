@@ -49,14 +49,45 @@ body {
     font-size: 18px;
     color: $colorBlack;
   }
-  h4, h5 {
-    font-family: 'Nunito', Lato, sans-serif;
-  }
-  .main-avatar {
-    margin-top: 40px;
-    margin-bottom: 20px;
+  .avatar {
     width: 150px;
     height: auto;
+    margin-top: 40px;
+    margin-bottom: 10px;
+  }
+  h3, h4 {
+    font-family: 'Nunito', Lato, sans-serif;
+  }
+  .name {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .description {
+    line-height: 1.2em;
+    font-weight: 300;
+    margin-bottom: 20px;
+  }
+  .sidebar-subscription {
+    margin-bottom: 20px;
+  }
+  .navigation {
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+    li {
+      position: relative;
+      display: block;
+      a {
+        position: relative;
+        display: block;
+        padding: 10px 15px;
+        text-align: center;
+        &:hover {
+          color: #888787;
+          text-decoration: none;
+        }
+      }
+    }
   }
 }
 
@@ -239,10 +270,6 @@ ul.posts {
   margin: 40px 0;
 }
 
-.sidebar-subscription {
-  margin-top: 40px;
-}
-
 .pagination {
   display: flex;
   margin-top: 70px;
@@ -264,7 +291,7 @@ ul.posts {
         background-image: url("../images/icon_prev_hover.png");
       }
     }
-    h3 {
+    h4 {
       margin: 10px 0;
       line-height: 1.3em;
       font-weight: 700;
@@ -434,14 +461,14 @@ ul.posts {
     img {
       float: left;
     }
-    h4, h5 {
+    h3, h4 {
       text-align: left;
       margin-left: 174px;
     }
-    h4 {
+    h3 {
       padding-top: 30px;
     }
-    .nav {
+    .navigation {
       li {
         display: inline-block;
         a {
@@ -468,7 +495,7 @@ ul.posts {
     h4 {
       padding-top: 0;
     }
-    .nav {
+    .navigation {
       text-align: center;
       li {
         display: inline-block;
@@ -503,7 +530,7 @@ ul.posts {
 
 @media screen and (max-width: 367px) {
   .navi {
-    .nav {
+    .navigation {
       li {
         a {
           padding: 10px 5px;

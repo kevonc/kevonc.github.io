@@ -44,7 +44,7 @@
     <link rel="stylesheet" href="{{ ASSET_PATH }}/css/pygments.css">
 
     <!-- Le styles -->
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link href="{{ ASSET_PATH }}/css/styles.css" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
@@ -75,15 +75,17 @@
   <body>
     <div class="container-narrow">
       <div class="row">
-        <div class="col-xs-12 col-sm-3">
-          {% include navbar.html %}
+        <div class="col-12 col-sm-3">
+          <div class="">
+            {% include navbar.html %}
+          </div>
         </div>
-        <div class="col-xs-12 col-sm-9">
+        <div class="col-12 col-sm-9">
           <div class="content">
             {{ content }}
           </div>
         </div>
-        <div class="col-xs-12">
+        <div class="col-12">
           <hr>
           {% include footer.html %}
         </div>
