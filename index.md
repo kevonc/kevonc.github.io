@@ -13,4 +13,4 @@ layout: page
   {% endfor %}
 </ul>
 
-<div class="more"><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">See More</a></div>
+<div class="see-more"><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}"><< See All Posts >></a></div>

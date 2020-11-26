@@ -132,8 +132,8 @@ ul.posts {
   }
 }
 
-// index
-.more {
+// homepage
+.see-more {
   text-align: center;
   margin-bottom: 20px;
   a {
@@ -141,7 +141,7 @@ ul.posts {
   }
 }
 
-// post header universal
+// universal
 .title {
   font-family: 'Nunito', Lato, sans-serif;
   font-size: 1.3em;
@@ -270,6 +270,7 @@ ul.posts {
   margin: 40px 0;
 }
 
+// pagination
 .pagination {
   display: flex;
   margin-top: 70px;
@@ -397,7 +398,7 @@ ul.posts {
   }
 }
 
-// projects
+// projects (hidden)
 #portfolio {
   margin-top: 20px;
   ul {
@@ -446,96 +447,22 @@ ul.posts {
 }
 
 
-
-
-
 // responsive
 @media screen and (max-width: 767px) {
-  .content {
+  body {
     padding: 0 10px;
   }
-  .navi, footer {
-    padding: 0 10px;
+.navi {
+  .sidebar-subscription {
+    margin-bottom: 4px;
   }
-  .navi {
-    img {
-      float: left;
-    }
-    h3, h4 {
-      text-align: left;
-      margin-left: 174px;
-    }
-    h3 {
-      padding-top: 30px;
-    }
-    .navigation {
-      li {
+  .navigation {
+    li {
+      display: inline-block;
+      a {
         display: inline-block;
-        a {
-          &:hover {
-            background-color: transparent !important;
-          }
-        }
       }
     }
   }
 }
-
-@media screen and (max-width: 499px) {
-  .navi {
-    img {
-      float: none;;
-      display: block;
-      margin: 0 auto;
-    }
-    h4, h5 {
-      text-align: center;
-      margin-left: 0;
-    }
-    h4 {
-      padding-top: 0;
-    }
-    .navigation {
-      text-align: center;
-      li {
-        display: inline-block;
-        a {
-          &:hover {
-            background-color: transparent !important;
-          }
-        }
-      }
-    }
-  }
-  .archive {
-    ul.posts {
-      li {
-        .post-date {
-          width: 90%;
-          p {
-            text-align: left;
-            span {
-              display: inline;
-              font-size: 14px;
-            }
-          }
-        }
-        .post-info {
-          width: 90%;
-        }
-      }
-    }
-  }
-}
-
-@media screen and (max-width: 367px) {
-  .navi {
-    .navigation {
-      li {
-        a {
-          padding: 10px 5px;
-        }
-      }
-    }
-  }
 }
