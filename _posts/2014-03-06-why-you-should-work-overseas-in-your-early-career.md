@@ -7,7 +7,11 @@ tagline: "Life begins at the end of your comfort zone."
 tags: [advice, global, career]
 ---
 
-Exactly 123 days ago I moved to Singapore, from Hong Kong, and began to live a life I would never have imagined before. No, it is not one of those dramatic, crazy lives you’ve seen in the movies; in fact it is a simple, peaceful life of a 23-year-old continuing to be alone overseas. The fact that I work away from my home city has given me a chance to look at another concrete jungle in Asia in a local perspective. Most importantly, I have no fear of being alone and am able to form numerous excellent habits. To me, the pros of working overseas far exceed the cons in this early stage of my career, hence I would hope that more young people would opt to do the same before it is too late. Responsibilities tend to pile up as you get older, and it is likely you’ll stay in your home city for the rest of your life, then these few years fresh off university might be your favorable time to do so.
+Exactly 123 days ago I moved to Singapore, from Hong Kong, and began to live a life I would never have imagined before. No, it is not one of those dramatic, crazy lives you’ve seen in the movies; in fact it is a simple, peaceful life of a 23-year-old continuing to be alone overseas. 
+
+The fact that I work away from my home city has given me a chance to look at another concrete jungle in Asia in a local perspective. Most importantly, I have no fear of being alone and am able to form numerous excellent habits. 
+
+To me, the pros of working overseas far exceed the cons in this early stage of my career, hence I would hope that more young people would opt to do the same before it is too late. Responsibilities tend to pile up as you get older, and it is likely you’ll stay in your home city for the rest of your life, then these few years fresh off university might be your favorable time to do so.
 
 ## Travel with your eyes, not your camera
 The word “traveling" has a special meaning to me. Most of the time you and I, the ones that have a full-time job and only have limited days to travel, would fly to a city or island with a “tourist" book in hand that you pick up from the bookstore. You eat, you walk, you snap a few photos, and in no time you’re back at home. I enjoy this kind of exploration, but something is missing from this 5-day-trip, something important.
