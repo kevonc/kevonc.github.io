@@ -43,6 +43,9 @@ body {
     font-size: 22px;
     font-weight: 700;
   }
+  hr {
+    margin: 40px 0 !important;
+  }
 }
 
 
@@ -185,6 +188,8 @@ ul.posts {
 
 .img-source {
   font-size: 0.7em;
+  text-align: center;
+  margin-top: -18px;
 }
 
 .social-icon {
@@ -199,7 +204,10 @@ blockquote {
   background: #ffd5c2;
   border-left: 10px solid #BF7F62;
   margin: 20px 0;
-  padding: 20px 20px 8px 10px;
+  padding: 20px 20px 20px 10px;
+  ul {
+    margin: 0;
+  }
   li {
     margin-top: 10px;
   }
