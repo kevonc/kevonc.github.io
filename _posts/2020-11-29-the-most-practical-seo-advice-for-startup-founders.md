@@ -185,7 +185,7 @@ As a founder, you have to focus on the strategy and build system to get things d
 - That being said, you still have to work on your other marketing channels (short-term). Don't ever just focus on content & SEO (long-term). Short and long tactics should play cohesively
 - Once things are initiated, build a system to create leverage for yourself. You'll realize you can offload a lot to freelancers
 
-## I was inspired by these guys
+## I was inspired by these companies
 
 ### Buffer
 
