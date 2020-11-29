@@ -1,0 +1,200 @@
+---
+layout: post
+title: "The Most Practical SEO Advice for First-Time Founders"
+description: 
+date: 2020-11-29 09:24
+categories: 
+excerpt_separator: <!--more-->
+tags: []
+---
+
+Believe it or not. Most founders focus on product more than marketing in the early days.
+
+We find a problem we want to solve, so intuitively the first thing is to figure out a solution and make it happen. This could be 3 to 6 months purely focused on product development. And what is usually neglected is a plan for marketing to build up the traction needed for initial growth.
+
+So this article is for first-time founders to understand the importance of doing marketing early and how SEO plays a key role in your strategy.
+
+And this is not a detailed SEO article for technical SEO marketers.
+
+<!--more-->
+When I was running <a href="https://toasty.ai" target="_blank">Toasty</a>, a video collab platform, in the last 18 months, I made a mistake of putting 6.5 headcounts in product and leaving half of myself as the only marketing/growth person to build awareness and acquire users. 
+
+The result? Imbalanced and slow. So I understand first-hand why you should start your marketing as early as possible.
+
+I'm also going to break down based on what I wished I knew as a founder back then:
+
+- Why should you invest in SEO?
+- What is SEO? (Very brief)
+- When to invest in SEO?
+- How frequent do you need to publish content?
+- Do you just publish and wait?
+- I'm a founder and I don't have time, what's the best way to do this?
+
+## Why should you invest in SEO?
+
+In the early days of Toasty, we needed awareness and traffic. I was hustling everywhere like a baby trying to get attention from his parents. I wrote articles, I distributed them on Slack groups, I posted on social media, I bought ads, I ran campaigns to capture emails ...
+
+It was difficult. With so much effort, we saw traffic going up steadily but slowly.
+
+Then one day, our blog traffic started to rise!
+
+And soon, it tripled month to month. Then it doubled and doubled again. What happened?
+
+<img src="{{site.baseurl}}/assets/images/posts/toasty-blog-traffic.png" alt="" class="full-image">
+
+### Let's break down the traffic
+
+- At the start, no matter how hard we shared our articles, we got hundreds of views only (see Sep-Dec 2019).
+- We pushed harder and achieved 3,000+ in Mar and Apr 2020, then we lost momentum and stopped actively distributing.
+- When SEO kicked in in Jul 2020, we grew solely on organic traffic due to lack of manpower.
+
+This was dream come true!
+
+More traffic meant we had a lot more room to run experiments, to grow our user base, and to improve our conversions!
+
+
+### What was going on?
+
+First let me summarized a few of our main channels:
+- **Slack communities** - we met people, built relationships, and distributed articles
+- **Bought Google ads** - quick and easy but didn't yield results
+- **LinkedIn engagement** - built up our audience, worked extremely well
+- **LinkedIn cold outreach** - for customer discovery
+- **Email marketing** - to stay in touch with pre-launch waitlist and our user list
+- **Content marketing + SEO** - I was a big believer that one day it will pay off
+
+During this entire period, Jul 2019 to Oct 2020, I was doing marketing and growth with a one freelance writer. In a few months on and off, I had a junior team member to help out.
+
+If you look at the list above, most of the marketing tactics required consistent labor week in, week out. Whenever my attention was diverted or the junior marketer resigned, I had a big gap in the marketing system. And our website and blog traffic took a big hit.
+
+Content & SEO, on the other hand, are tactics that once you put it out there, it is evergreen and doesn't require your daily attention. You still need to build strategies around it, but the core of it is sustainable.
+
+Okay a side thing. As I have a newborn coming in 5 weeks. I was thinking:
+
+> - <strong>Toys are like ads.</strong> They're expensive. They boost happiness in the short-term, but soon they'll be forgotten.
+> - <strong>Books are like content & SEO.</strong> They're inexpensive. The knowledge acquired is sustainable, and it can always be revisited.
+
+Ha! So I prefer to buy books for my daughter.
+
+## What is SEO?
+
+If you're a founder and you do not know about SEO, I urge you to study about it asap. Don't ever fully rely on someone else to execute this for you, you need to understand how it works.
+
+To me, the most important parts are:
+- **Keywords** - pick relevant keywords to your business and focus on them
+- **On-site technicals** - make sure your website is optimized for SEO technically
+- **Backlinks** - build partnerships and have them link to you to boost your credibility
+- **Content** - you can do well in SEO, but if your content sucks, you'll go nowhere
+
+Here are the technical SEO articles you should read:
+1.
+2.
+
+
+## When to invest in SEO?
+
+I knew content and SEO would be keys to our growth, so I started on Day One. Huge mistake!
+
+Do you know why?
+
+We hadn't validated our problem statement enough.
+
+When we were still doing customer discovery interviews, we had a tiny sense of a direction, and immediately I started creating content. A few months down the road, we decided to pivot, and all the content became garbage. We literally had to remove all of them from our blog because they were irrelevant to the new direction.
+
+But ... if you look at the stats above. You can see it took us a long 6-8 months before SEO kicked in.
+
+So my suggestion is that you start content & SEO as early as you validate the problem hypothesis. You don't need to validate the solution yet, because you can always produce content with a broader scope to focus on "generating early awareness".
+
+This way, your product development and content marketing & SEO can go in parallel.
+
+
+## How frequently do you publish content?
+
+Honestly, you don't need to be a machine to produce content too frequently. It is better to be strategic.
+
+1. You want to know the keywords that you want to focus on. Since you're new in the market, go for longtail keywords that have reasonable volume and less competition. You should also try keywords that interest your target audience but have little to do with your product, this way you can attract different groups of audiences. Diversify!
+
+2. Just like everything else. Being consistent is the key. 1 post every 2 weeks? Fine
+
+3. Your content has to be top notch that the readers should say in their mind "Oh! This is so useful!" Also, many people make the mistakes of not having a clear CTA in the post, don't do that. Capture their emails or get them to your website.
+
+
+## Do you just publish and wait?
+
+No ... I did that and nothing happened! Never just sit and wait.
+
+If there is one thing you take away from this article, remember this. We spent 80% producing + 20% distributing, and it was another huge mistake. It should really be 40% producing and 60% distributing.
+
+Think of creating content like making scrambled eggs. You make them, but you have to EAT them to get the nutrition (result).
+
+What's even better? You can also share the eggs with your family. Cook once, 4 people enjoy.
+
+This is also another key for content marketing. Make sure you keep recycling and remixing content to maximize results. Here is <a href="https://rosssimmonds.com/content-distribution/" target="_blank">the article that inpsired our team</a> to level up our game.
+
+### A COVID story about distribution
+
+In early early 2020, we found 3 Slack communities to be an amazing way to share our content. We posted our newly published articles and easily got hundreds of views per piece.
+
+Then COVID happened globally in March 2020, and suddenly each Slack group was flooded with people who were stuck at home and thinking about how to do marketing online.
+
+More and more articles are being posted everyday, and yes, no one read them anymore because it was so overwhelming.
+
+So I cannot tell you how you can distribute your content effectively. Just remember, always go to where your target audience is, and do it creatively before other people figure it out.
+
+If you're blindly going to Product Hunt, Slack groups, and just post and wait, good luck.
+
+## I'm a founder and I don't have time, what's the best way to do this?
+
+As a first-time founder, you have a million things on your plate, you don't have time to create content yourself.
+
+My tactic was to write the first few pieces myself to set the tone and style, then hire someone better at writing to replace me.
+
+So for the first 4 weeks, I wrote 4 pieces myself. And I also started looking for a freelance writer and a graphic designer. 
+
+It is almost impossible to know if this person is the right fit until you try it out, so I suggest you to work on 1-2 piece together and see how it goes.
+
+For writer, I recommend setting a standard of let's say 1,500 words per articles for a fixed price and be okay with less words. This is because you want to emphasize quality over length. Trust your writer. For designer, hourly rate makes sense. 
+
+If you need someone, happy to connect to the ones I enjoy working with.
+
+Then it comes the system I built on Trello board (after working smoothly with them):
+- I studied our own niche and relevant keywords and passed to freelance writer.
+- We discussed on a high level, and she listed down 4 topics she would write for the next month.
+- When she finished one piece, she reached out to the designer directly for visuals of the post.
+- When the piece is finalized, I'd review before an agreed published deadline, and writer would post it.
+
+As a founder, you have to focus on the strategy and build system to get things done. But, I'd always suggest you to kick off something yourself to set the bar.
+
+## To recap
+
+- Start marketing early as soon as you validate the problem
+- Invest in content & SEO early and do it consistently, it is a sustainable channel with high ROI
+- That being said, you still have to work on your other marketing channels (short-term). Don't ever just focus on content & SEO (long-term). Short and long tactics should play cohesively
+- Once things are initiated, build a system to create leverage for yourself. You'll realize you can offload a lot to freelancers
+
+## I was inspired by these guys
+
+### Buffer
+
+Buffer was the pioneer in content a decade ago in 2010. They figured out <a href="https://www.yesoptimist.com/buffer-content-marketing-strategy/" target="_blank">guest blogging</a> could bring in large volume of sustainable traffic.
+
+<img src="{{site.baseurl}}/assets/images/posts/buffer-revenue.png" alt="" class="full-image">
+<span class="img-source">Source: <a href="https://buffer.baremetrics.com/stats/mrr#start_date=2012-12-01&end_date=2018-01-22" taret="_blank">Baremetrics</a></span>
+
+### Zapier
+
+Check out Growth Lever 7 on <a href="https://saasmarketer.io/saas-partnership-strategy/" target="_blank">How Zapier Grew To $50m ARR Fully Remote</a>. They understood how people searched and capitalized with their "list post".
+
+<img src="{{site.baseurl}}/assets/images/posts/zapier-seo-growth.jpg" alt="" class="full-image">
+<span class="img-source">Source: <a href="https://saasmarketer.io/saas-partnership-strategy/" target="_blank">SaaS Marketer</a></span>
+
+### Canva
+
+More on the <a href="https://www.growthmanifesto.com/canva-growth-study" target="_blank">technical side of SEO</a>. You'll learn how smart they were in structuring their website, choosing keywords, and making the pages ranked.
+
+<img src="{{site.baseurl}}/assets/images/posts/canva-organic-traffic.jpg" alt="" class="full-image">
+<span class="img-source">Source: <a href="https://www.growthmanifesto.com/canva-growth-study" target="_blank">Growth Manifesto</a></span>
+
+
+
+

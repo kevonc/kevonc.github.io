@@ -13,7 +13,9 @@ As a founder or product leader, are you obsessed with user interviews?
 You likely have already read about the best practices to do them.	
 
 But having done 200+ user interviews in the last 18 months, I discovered that following the best practices wasn't enough, there were these frustrating traps that I learned to avoid. 
+
 <!--more-->
+
 And here are the top 4 for me.
 
 ## Trap #1 - I was overdoing these interviews and lost sight of the meaning

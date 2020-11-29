@@ -39,6 +39,10 @@ body {
     font-size: 26px;
     font-weight: 700;
   }
+  h3 {
+    font-size: 22px;
+    font-weight: 700;
+  }
 }
 
 
@@ -179,6 +183,10 @@ ul.posts {
   margin: 20px 0;
 }
 
+.img-source {
+  font-size: 0.7em;
+}
+
 .social-icon {
   width: 24px;
   margin: 12px 12px;
@@ -186,6 +194,20 @@ ul.posts {
     width: 22px;
   }
 }
+
+blockquote {
+  background: #ffd5c2;
+  border-left: 10px solid #BF7F62;
+  margin: 20px 0;
+  padding: 20px 20px 8px 10px;
+  li {
+    margin-top: 10px;
+  }
+  p {
+    display: inline;
+  }
+}
+
 
 
 
