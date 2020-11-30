@@ -3,9 +3,15 @@
 	  <img src="{{ ASSET_PATH }}/images/kevon-2019.jpg" alt="Kevon Cheung" class="avatar">
 	</a>
 
+	{% if page.title %}
 	<a href="{{ HOME_PATH }}">
 		<h4 class="name"><strong>Kevon Cheung</strong></h4>
 	</a>
+	{% else %}
+	<a href="{{ HOME_PATH }}">
+		<h1 class="name"><strong>Kevon Cheung</strong></h1>
+	</a>
+	{% endif %}
 
 	<h5 class="description">I write a newsletter crossing perspectives as a newbie parent 🐣 and a first-time founder 🚀. Startup, product, and growth.</h5>
 

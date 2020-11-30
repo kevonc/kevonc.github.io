@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What a Developer / Programmer / Software Engineer Should Expect Working in an Agency"
+title: "What a Developer / Software Engineer Should Expect Working in an Agency"
 description: "Kevon takes this chance to reflect on his experience working as a Software Engineer in an agency, hoping that those who are looking for jobs after a coding bootcamp will find it helpful."
 date: 2015-06-06 19:19
 categories: work
