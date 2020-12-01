@@ -178,6 +178,8 @@ Then it comes the system I built on Trello board (after working smoothly with th
 
 As a founder, you have to focus on the strategy and build system to get things done. But, I'd always suggest you to kick off something yourself to set the bar.
 
+If you want the Trello board as reference or more details on how this system works, say hi on <a href="https://twitter.com/kevon69/status/1333744350560276482" target="_blank">this tweet-thread</a>. Happy to share.
+
 ## To recap
 
 - Start marketing early along with product development as soon as you validate the problem
