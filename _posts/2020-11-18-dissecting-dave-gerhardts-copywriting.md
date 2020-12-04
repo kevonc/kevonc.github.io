@@ -137,7 +137,7 @@ Obviously, here I'm only able to capture a small part of his mastermind. You'll 
 
 After I picked up these tactics from Dave. I put them into practice and saw my engagement numbers go up and up. Within 5 months, I was able to achieve 5-10x growth on my regular LinkedIn posts.
 
-<img src="{{site.baseurl}}/assets/images/posts/gerhardt-kevons-results.png" alt="" class="full-image">
+<img src="{{site.baseurl}}/assets/images/posts/gerhardt-kevons-results.png" alt="Engagement Metrics Growing" class="full-image">
 
 I hope these are helpful, and please share with me if you think there are more I should add to this article.
 

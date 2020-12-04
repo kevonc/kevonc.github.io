@@ -20,7 +20,7 @@ Watch out - this is not a detailed SEO article for technical SEO marketers.
 
 ***
 
-When I was running <a href="https://toasty.ai" target="_blank">Toasty</a>, a video collab platform, in the last 18 months, I made a mistake of putting 6.5 headcounts in product and leaving half of myself as the only marketing/growth person to build awareness and generate traffic. 
+When I was running Toasty, a video collab platform, in the last 18 months, I made a mistake of putting 6.5 headcounts in product and leaving half of myself as the only marketing/growth person to build awareness and generate traffic. 
 
 The result? Imbalanced and slow growth. So I understand first-hand why you should start your marketing as early as possible.
 
@@ -44,7 +44,7 @@ Then one day, our blog traffic started to rise!
 And soon, it tripled month to month. Then it doubled and doubled again. What happened?
 
 <img src="{{site.baseurl}}/assets/images/posts/toasty-blog-traffic.png" alt="" class="full-image">
-<p class="img-source">Source: <a href="http://blog.toasty.ai/" taret="_blank">Toasty</a></p>
+<p class="img-source">Source: Toasty</p>
 
 ### Let's break down the traffic
 
@@ -168,7 +168,7 @@ It is almost impossible to know if this person is the right fit until you try it
 
 For writer, I recommend setting a standard of let's say 1,500 words per articles for a fixed price and be okay with less words. This is because you want to emphasize quality over length. Trust your writer. For designer, hourly rate makes sense. 
 
-If you need someone, happy to connect to the ones I enjoy working with (<a href="https://blog.toasty.ai" target="_blank">reference</a>). Just say hi on Twitter/email.
+If you need someone, happy to connect to the ones I enjoy working with. Just say hi on Twitter/email.
 
 Then it comes the system I built on Trello board (after working smoothly with them):
 - I studied our own niche and relevant keywords and shared with the freelance writer.
