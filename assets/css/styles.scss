@@ -31,6 +31,7 @@ body {
 }
 
 .content {
+  padding: 20px 10px 0 10px;
   h1, h2, h3, h4, h5, h6 {
     margin-top: 40px;
     margin-bottom: 20px;
@@ -116,10 +117,6 @@ footer {
   hr {
     margin: 10px 0;
   }
-}
-
-.content {
-  padding: 20px 10px 0 10px;
 }
 
 // posts index
@@ -492,13 +489,12 @@ blockquote {
 
 /* Each button */
 .share-button {
-  margin: 0px;
-  margin-bottom: 10px;
-  margin-right: 8px;
+  margin: 0 8px 10px 0;
   border: 1px solid #D3D6D2;
   border-radius: 4px;
   padding: 6px 12px 6px 12px;
   font-family: 'Nunito', Lato, sans-serif !important;
+  line-height: 50px;
   i {
     margin-right: 3px;
   }
