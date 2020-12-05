@@ -16,6 +16,9 @@ We have been preparing the nursery room and reading books about newborn and pare
 
 As a new father, all I know is be there for my wife and being supportive and helpful. Honestly, I didn't feel much of "being a dad" in the last 8 months, but as the date approaches, I start to think "Woh - I'm a father now. It is real!"
 
+<img src="{{site.baseurl}}/assets/images/newsletters/issue002-averys-foot.jpeg" alt="" class="full-image">
+<p class="img-source">She was showing us her big foot in the ultrasound scan last week 🙈</p>
+
 ## Searching for passion
 
 I spent the last 18 months running Toasty, a video collab startup company, and I stepped down from my CEO role in October. Since then, I've been taking time to refocus myself.
