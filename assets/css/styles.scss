@@ -146,6 +146,23 @@ ul.posts {
   }
 }
 
+.cta {
+  text-align: center;
+}
+
+.read-more {
+  padding: 8px 24px;
+  background-color: #f9e0ae;
+  color: #333;
+  font-weight: 700;
+  border-radius: 4px;
+  &:hover {
+    color: #333;
+    text-decoration: none;
+    background-color: darken(#f9e0ae, 10);
+  }
+}
+
 // universal
 .title {
   font-family: 'Nunito', Lato, sans-serif;
