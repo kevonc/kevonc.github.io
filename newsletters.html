@@ -8,9 +8,9 @@ collection: newsletters
 
 <p>I write because it helps me reflect on my journey and keeps me as a perpetual learner.</p>
 
-<script async data-uid="fca4203871" src="https://kevon.ck.page/fca4203871/index.js"></script>
+{% include subscribe.html %}
 
-<h4>Past Issues</h4>
+<h2>Past Issues</h2>
 
 <div class="archive">
   {% assign sorted = site.newsletters | sort: 'date' | reverse %}
