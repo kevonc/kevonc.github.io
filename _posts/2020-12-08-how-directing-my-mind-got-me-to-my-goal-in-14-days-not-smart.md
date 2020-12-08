@@ -137,4 +137,4 @@ Fill <a href="https://bit.ly/my14dayschallenge" target="_blank">this</a> in, and
 
 I can guarantee you that something good is going to come out after these 14 days.
 
-If you would like a second pair of eyes to look through what you have noted down, I'd be happy to review and give you some feedback. Just hit me up on this Twitter thread and we can connect and chat!
+If you would like a second pair of eyes to look through what you have noted down, I'd be happy to review and give you some feedback. Just [hit me up on this Twitter thread](https://twitter.com/kevon69/status/1336299758151901184){:target="_blank"} and we can connect and chat!
