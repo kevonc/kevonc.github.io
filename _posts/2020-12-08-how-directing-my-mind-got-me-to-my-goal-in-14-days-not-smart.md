@@ -31,7 +31,7 @@ My belly went from 87cm to 82cm in 4 weeks, and then to 80cm in 2 more weeks. A 
 
 My bodyweight went from 154 lbs to 149 lbs. A mere 3.2% lighter, that's perfect as I didn't want to lose too much weight.
 
-I was impressed by the progress I made, and this challenge taught me an important life lesson. The success of the past 6 weeks made me realize the power of goal-setting, progression, and motivation. And I started thinking about why it went so well. 
+14 days turned into 6 weeks, and it is still going today. The success of the past 6 weeks made me realize the power of goal-setting, progression, and motivation. And I started thinking about why it went so well. 
 
 I decided to answer some of my inner questions:
 - How did a 14 days challenge turn into a 6 weeks thing and it is still going on in my life right now?
