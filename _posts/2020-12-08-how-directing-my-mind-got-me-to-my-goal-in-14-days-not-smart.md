@@ -68,7 +68,7 @@ Most importantly, I put up a piece of paper and recorded my weight and waist eve
 
 My end goal was to lose my big belly. But to focus on that wasn't going to get me there, so I didn't think about it at all. 
 
-Instead, everyday I woke up, I was thinking about going for a run, doing a 20-min HIIT, and what I was going to eat. These things were top of my mind, not my end goal which was out of my control.
+Instead, every day I woke up, I was thinking about going for a run, doing a 20-min HIIT, and what I was going to eat. These things were top of my mind, not my end goal which was out of my control.
 
 ### 3. I made this top of my mind
 
