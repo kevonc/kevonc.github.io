@@ -5,11 +5,11 @@
 
 	{% if page.title %}
 	<a href="{{ HOME_PATH }}">
-		<h4 class="name"><strong>Kevon Cheung</strong></h4>
+		<h4 class="site-name"><strong>Kevon Cheung</strong></h4>
 	</a>
 	{% else %}
 	<a href="{{ HOME_PATH }}">
-		<h1 class="name"><strong>Kevon Cheung</strong></h1>
+		<h1 class="site-name"><strong>Kevon Cheung</strong></h1>
 	</a>
 	{% endif %}
 
@@ -31,3 +31,46 @@
 	</ul>
 
 </div>
+
+<nav role="navigation" id="mobileNav">
+  <div id="menuToggle">
+    <!--
+    A fake / hidden checkbox is used as click reciever,
+    so you can use the :checked selector on it.
+    -->
+    <input type="checkbox" />
+    
+    <!--
+    Some spans to act as a hamburger.
+    
+    They are acting like a real hamburger,
+    not that McDonalds stuff.
+    -->
+    <span></span>
+    <span></span>
+    <span></span>
+    
+    <!--
+    Too bad the menu has to be inside of the button
+    but hey, it's pure CSS magic.
+    -->
+    <ul id="menu">
+			<a href="/about"><li>Hey, Kevon</li></a>
+			<a href="/blog"><li>Articles</li></a>
+			<a href="/newsletters"><li>Newsletter</li></a>
+			<a href="/speaking"><li>Speaking</li></a>
+			<a href="/contact"><li>Contact</li></a>
+    </ul>
+  </div>
+
+ 	{% if page.title %}
+	<a href="{{ HOME_PATH }}">
+		<h4 class="site-name"><strong>Kevon Cheung</strong></h4>
+	</a>
+	{% else %}
+	<a href="{{ HOME_PATH }}">
+		<h1 class="site-name"><strong>Kevon Cheung</strong></h1>
+	</a>
+	{% endif %}
+
+</nav>
