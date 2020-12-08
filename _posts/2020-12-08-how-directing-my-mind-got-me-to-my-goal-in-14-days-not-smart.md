@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How Directing My Mind Got Me to My Goal in 14 Days (not SMART)"
-description:
+description: "I was insanely unhealthy during COVID-19. Being so embarrassed with my body, I jumped on a 14 Days Challenge and found out how directing my mind was critical to help me set and achieve my goals."
 date: 2020-12-08 09:24
-categories: 
+categories: personal-growth
 excerpt: "I was insanely unhealthy during the first 9 months of COVID-19 and my body went out of shape. <br><br>Being so embarrassed, I set up a 14 Days Challenge to turn it around, and the ability to control and direct my mind soon became my new goal-setting formula to upgrade my life in all perspectives."
 tags: []
 ---

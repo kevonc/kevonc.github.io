@@ -2,7 +2,7 @@
 layout: post
 title: "Failure, So What?"
 date: 2012-10-18 14:00
-categories: self
+categories: personal-growth
 tagline: "Success is walking from failure to failure with no loss of enthusiasm. -Winston Churchill"
 tags: [entrepreneurship, learning]
 ---

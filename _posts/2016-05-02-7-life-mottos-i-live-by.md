@@ -3,7 +3,7 @@ layout: post
 title: "7 Life Mottos I Live By"
 description: "A set of 7 life mottos that influence Kevon's life."
 date: 2016-05-02 21:00
-categories: self
+categories: personal-growth
 tagline: "I am the master of my faith, I am the captain of my soul"
 tags: [lessons, advice]
 ---
