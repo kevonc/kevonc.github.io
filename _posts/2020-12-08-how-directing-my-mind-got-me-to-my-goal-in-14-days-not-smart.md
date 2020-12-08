@@ -54,7 +54,7 @@ Eating wise, I ordered calorie-controlled meal plans so that I could burn more t
 
 <img src="{{site.baseurl}}/assets/images/posts/kevon-diet.png" alt="Kevon's Diet" class="full-image">
 
-Most importantly, I put up a piece of paper and recorded my weight and waist every morning. I forgot to do so on some days. And as you can see, I was drunk one day so I didn't manage to exercise.
+Most importantly, I put up a piece of paper and recorded my weight and waist every morning. I forgot to do so on some days. And as you can see, I was drunk one day (lol) so I didn't manage to exercise.
 
 <img src="{{site.baseurl}}/assets/images/posts/kevon-progress.jpg" alt="Kevon's Progress Tracking" class="full-image">
 
