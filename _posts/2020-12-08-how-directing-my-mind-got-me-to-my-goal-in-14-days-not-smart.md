@@ -96,7 +96,7 @@ When I internalized the 5 points above, even though they mapped to a fitness goa
 
 I'm sure a lot of you reading this will now go "This is just like other frameworks I've tried before, but they never worked."
 
-You're right, it is similar. But here I want you to realize one thing, the 5 ingredients are all pointing at one critical factor in achieving my goal: my mind.
+You're right, it is similar to say SMART Goals. But here I want you to realize one thing, the 5 ingredients are all pointing at one critical factor in achieving my goal: my mind.
 
 You can see that everything I did here was directing my mind to the right mindset by setting up the appropriate cues. 
 
