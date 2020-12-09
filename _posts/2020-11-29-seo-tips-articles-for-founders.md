@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Skip Those SEO Tips Articles. Read This First As a Founder"
+title: "Understanding SEO as a First-time Founder"
 description: As a first-time founder, you need to understand the importance of doing marketing early and how SEO plays a key role in building up sustainable traction for you.
 date: 2020-11-29 09:24
 categories: growth-marketing

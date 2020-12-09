@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Discovered These Customer Interviews Traps First-hand 💣 "
+title: "You Should Avoid These Customer Interviews Traps"
 description: We follow best practices to run our user interviews. But to be excellent at it, I discovered these frustrating traps that we should all try to avoid.
 date: 2020-11-22 11:04
 categories: product
