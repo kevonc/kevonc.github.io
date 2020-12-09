@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Directing My Mind Got Me to My Goal in 14 Days (not SMART)"
+title: "This Goal-Setting Template Helped Me Hit My Goal in 14 Days"
 description: "I was insanely unhealthy during COVID-19. Being so embarrassed with my body, I jumped on a 14 Days Challenge and found out how directing my mind was critical to help me set and achieve my goals."
 date: 2020-12-08 09:24
 categories: personal-growth
