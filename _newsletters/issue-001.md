@@ -2,6 +2,7 @@
 layout: post
 title: "KC#1 - These customer interviews traps hurt me bad"
 date: 2020-11-24 09:24
+categories: newsletter
 ---
 
 Hey everyone,
@@ -22,4 +23,4 @@ You likely have already read about the best practices to do them.
 
 But having done 200+ user interviews in the last 18 months, I discovered that following the best practices wasn’t enough, there were these frustrating traps that I learned to avoid. And here are the top 4 for me.
 
-[Read More]({% post_url 2020-11-22-i-discovered-these-customer-interviews-traps-first-hand %}){:class="read-more"}
+[Read More]({% post_url 2020-11-22-customer-interviews-traps %}){:class="read-more"}

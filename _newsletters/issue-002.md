@@ -2,6 +2,7 @@
 layout: post
 title: "KC#2 - Passion Search & The Only SEO Article for Founders"
 date: 2020-12-01 09:24
+categories: newsletter
 ---
 
 Hey everyone,
@@ -57,4 +58,4 @@ So I wrote this article to help first-time founders understand the importance of
 
 If you're just starting out, I hope this can help you!
 
-[Read More]({% post_url 2020-11-29-seo-tips-articles-for-founders %}){:class="read-more"}
+[Read More]({% post_url 2020-11-29-seo-first-time-founders %}){:class="read-more"}

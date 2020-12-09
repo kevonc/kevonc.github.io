@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Why No One Reads What You Write: Dissecting Dave Gerhardt's Copywriting"
-description: To boost my LinkedIn engagement numbers, I studied Dave Gerhardt's copywriting game and tried to replicate the same tactics.
+slug: "dave-gerhardt-copywriting"
+description: "To boost my LinkedIn engagement numbers, I studied Dave Gerhardt's copywriting game and tried to replicate the same tactics."
 date: 2020-11-18 08:00
 categories: growth-marketing
 excerpt_separator: <!--more-->
-tags: []
+redirect_from:
+  - /dissecting-dave-gerhardts-copywriting
 ---
 
 Back in March 2020, I was very active on my LinkedIn trying to engage my network. 

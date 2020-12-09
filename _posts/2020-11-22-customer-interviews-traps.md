@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "You Should Avoid These Customer Interviews Traps"
-description: We follow best practices to run our user interviews. But to be excellent at it, I discovered these frustrating traps that we should all try to avoid.
+slug: "customer-interviews-traps"
+description: "We follow best practices to run our user interviews. But to be excellent at it, I discovered these frustrating traps that we should all try to avoid."
 date: 2020-11-22 11:04
 categories: product
 excerpt_separator: <!--more-->
-tags: []
+redirect_from:
+  - /i-discovered-these-customer-interviews-traps-first-hand
 ---
 
 As a founder or product leader, are you obsessed with user interviews?
