@@ -49,6 +49,8 @@ I learned that we should have excluded their ideas and opinions from the intervi
 
 I also learned that it was better to look for facial expression, body language, and actual product usage to gauge whether they’re interested. If they show excitement, curiosity, urgency, or if they immediately check out or sign up for our product and start using it, then it is a sign that they're interested. Otherwise, despite all the kind words, they’re really not.
 
+{% include midpost-subscribe.html %}
+
 ## Trap #3 - Never asked for solutions from customers
 
 Henry Ford once said, if he had asked his customers for new ideas, they would have told him to create faster horses. He didn’t do that, and he created cars to replace horses.

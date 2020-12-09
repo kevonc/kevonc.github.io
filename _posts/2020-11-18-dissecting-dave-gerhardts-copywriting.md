@@ -99,6 +99,7 @@ Are you thinking of using hashtags to bring in views & engagement? It is not qui
 
 <img src="{{site.baseurl}}/assets/images/posts/gerhardt-9-min.png" alt="" class="full-image">
 
+{% include midpost-subscribe.html %}
 
 ### He injects personality and talks about unrelated things
 

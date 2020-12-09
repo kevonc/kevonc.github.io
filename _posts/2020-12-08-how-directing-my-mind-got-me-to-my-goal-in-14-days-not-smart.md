@@ -90,7 +90,7 @@ The best of all five. Bragging was a big motivation. In other words, I called it
 
 As I pushed for these 7am runs and seemingly disgusting meals, I had people around me wondering how I did that. And with results coming in, I got to show off to families/friends about the tremendous progress I was making.
 
-{% include subscribe.html %}
+{% include midpost-subscribe.html %}
 
 ## What role did my mind play in all these?
 

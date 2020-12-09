@@ -94,7 +94,7 @@ Here are the technical SEO articles you should read:
 1. <a href="https://backlinko.com/hub/seo/what-is-seo" target="_blank">Backlinko - What is SEO?</a>
 2. <a href="https://backlinko.com/seo-this-year" target="_blank">Backlinko - The Definitive Guide To SEO In 2020</a>
 
-{% include subscribe.html %}
+{% include midpost-subscribe.html %}
 
 ## When to invest in SEO?
 
