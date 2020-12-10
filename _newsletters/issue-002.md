@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "KC#2 - Passion Search & The Only SEO Article for Founders"
+title: "KC#2 - Passion search & the only SEO article for founders"
 date: 2020-12-01 09:24
 categories: newsletter
 ---
@@ -17,7 +17,7 @@ We have been preparing the nursery room and reading books about newborn and pare
 
 As a new father, all I know is be there for my wife and being supportive and helpful. Honestly, I didn't feel much of "being a dad" in the last 8 months, but as the date approaches, I start to think "Woh - I'm a father now. It is real!"
 
-<img src="{{site.baseurl}}/assets/images/newsletters/issue002-averys-foot.jpeg" alt="" class="full-image">
+<img src="{{site.baseurl}}/assets/images/newsletters/issue002-averys-foot.jpeg" alt="Avery's big foot" class="full-image">
 <p class="img-source">She was showing us her big foot in the ultrasound scan last week 🙈</p>
 
 ## Searching for passion
