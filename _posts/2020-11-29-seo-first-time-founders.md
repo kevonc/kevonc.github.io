@@ -106,7 +106,7 @@ Do you know why?
 
 We hadn't validated our problem statement enough.
 
-When we were still doing customer discovery interviews, we had a tiny sense of a direction, and immediately I started creating content. A few months down the road, we decided to pivot, and all the content became garbage. We literally had to remove all of them from our blog because they were irrelevant to the new direction.
+When we were still [doing customer discovery interviews]({% post_url 2020-11-22-customer-interviews-traps %}){:target="_blank"}, we had a tiny sense of a direction, and immediately I started creating content. A few months down the road, we decided to pivot, and all the content became garbage. We literally had to remove all of them from our blog because they were irrelevant to the new direction.
 
 But ... if you look at the stats above. You can see it took us a long 6-8 months before SEO kicked in.
 
