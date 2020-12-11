@@ -6,5 +6,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
+<div class="categories">
+	<div class="tag-boxes">
+		<ul class="tag-box inline">
+		  {% assign categories_list = site.categories %}
+		  {% include JB/categories_list %}
+		</ul>
+	</div>
+</div>
+
 {% assign posts_collate = site.posts %}
 {% include JB/posts_collate %}

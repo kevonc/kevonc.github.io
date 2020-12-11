@@ -49,6 +49,9 @@ body {
   hr {
     margin: 40px 0 !important;
   }
+  .single-post {
+    padding: 20px 0;
+  }
 }
 
 
@@ -250,8 +253,6 @@ blockquote {
 
 // post-page
 .page-header {
-  margin: 0;
-  padding-top: 20px;
   .date {
     margin-bottom: 10px;
   }
@@ -287,7 +288,7 @@ blockquote {
     margin-left: -40px;
     overflow: hidden;
     li {
-      line-height: 28px;
+      line-height: 42px;
       span.glyphicon {
         font-size: 1.5em;
         color: $colorBlack;
@@ -389,8 +390,7 @@ blockquote {
 // categories and tags
 .categories, .tags {
   padding-top: 4px;
-  padding-bottom: 10px;
-  border-bottom: 1px dashed $colorSecondary;
+  padding-bottom: 4px;
 }
 
 .category-list, .tag-list {
@@ -718,8 +718,6 @@ blockquote {
 @media screen and (max-width: 767px) {
   body {
     padding: 0 10px;
-    // margin: 0;
-    // padding: 0;
   }
   .navi {
     display: none;

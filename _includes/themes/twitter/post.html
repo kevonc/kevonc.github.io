@@ -1,43 +1,45 @@
-<div class="page-header">
-  <h1 class="title">{{ page.title }}</h1>
-  <p class="author">By {{ site.author.name }} in [{{ page.categories }}]</p>
-  <p class="date">{{ page.date | date: "%B %-d, %Y" }}</p>
-</div>
-
-<div class="post-full">
-  <div class="post-content">
-    {% if page.tagline %}
-      <h5 class="tagline">"{{page.tagline}}"</h5>
-    {% endif %}
-    {{ content }}
-    {% include share-bar.html %}
+<div class="single-post">
+  <div class="page-header">
+    <h1 class="title">{{ page.title }}</h1>
+    <p class="author">By {{ site.author.name }} in [{{ page.categories }}]</p>
+    <p class="date">{{ page.date | date: "%B %-d, %Y" }}</p>
   </div>
 
-  <div class="pagination">
-    {% if page.previous %}
-      <div class="prev_box">
-        <div class="prev">
-          <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">
-            <div class="icon_prev"></div>
-            <h4>{{ page.previous.title }}</h4>
-            <p class="date">{{ page.previous.date | date: "%B %-d, %Y" }}</p>
-          </a>
-        </div>
-      </div>
-    {% endif %}
+  <div class="post-full">
+    <div class="post-content">
+      {% if page.tagline %}
+        <h5 class="tagline">"{{page.tagline}}"</h5>
+      {% endif %}
+      {{ content }}
+      {% include share-bar.html %}
+    </div>
 
-    {% if page.next %}
-      <div class="next_box">
-        <div class="next">
-          <a href="{{ page.next.url }}" title="{{ page.next.title }}">
-            <div class="icon_next"></div>
-            <h4>{{ page.next.title }}</h4>
-            <p class="date">{{ page.next.date | date: "%B %-d, %Y" }}</p>
-          </a>
+    <div class="pagination">
+      {% if page.previous %}
+        <div class="prev_box">
+          <div class="prev">
+            <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">
+              <div class="icon_prev"></div>
+              <h4>{{ page.previous.title }}</h4>
+              <p class="date">{{ page.previous.date | date: "%B %-d, %Y" }}</p>
+            </a>
+          </div>
         </div>
-      </div>
-    {% endif %}
+      {% endif %}
+
+      {% if page.next %}
+        <div class="next_box">
+          <div class="next">
+            <a href="{{ page.next.url }}" title="{{ page.next.title }}">
+              <div class="icon_next"></div>
+              <h4>{{ page.next.title }}</h4>
+              <p class="date">{{ page.next.date | date: "%B %-d, %Y" }}</p>
+            </a>
+          </div>
+        </div>
+      {% endif %}
+    </div>
+
+    {% include JB/comments %}
   </div>
-
-  {% include JB/comments %}
 </div>
