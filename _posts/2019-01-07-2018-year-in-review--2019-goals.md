@@ -18,16 +18,16 @@ In parallel, for the first time since graduating from university, I felt that I 
 ## What happened in 2018
 * I got engaged! I have to say I’m a lucky person to have met Lydia; not just because we’re becoming husband and wife, it is also because we’re in a really, really great relationship. Friends around us continue to ask the two of us questions like - how do you know he/she is the one? How do you have such a good relationship? Do you two even argue? I’m most grateful for our approach and mutual understanding in this relationship, I think that makes all the difference.
 * Compared to 2017, I read slightly more in 2018 (mainly because I only managed to read 6 books in 2017). You can tell from the list that it was a bit all over the place. That’s right, I wanted to diversify my knowledge base instead of only focusing on business/management/leadership books. I learned 2 lessons from reading this year: 1) how to read multiple books at the same time and 2) how to skim through a book for the key highlights instead of reading word to word. These methods actually make me happier and want to read more.
-    * Lost and Founder
-    * Profit First
-    * Do - Purpose - why brands with a purpose do better and matter more
-    * The Four-Hour Work week (Reread)
-    * Girl, Wash Your Face
-    * Capitalism without Capital (Partial)
-    * The Pumpkin Plan (Partial)
-    * Invested
-    * How to Talk so Kids Will Listen & Listen so Kids Will Talk
-    * Principles: Life and Work (Reread)
+    * [Lost and Founder](https://www.amazon.com/gp/product/0735213321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735213321&linkCode=as2&tag=stayrelentles-20&linkId=d59018c5782ac1bbf07a236a92d9cb61){:target="_blank"}
+    * [Profit First](https://www.amazon.com/gp/product/073521414X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=073521414X&linkCode=as2&tag=stayrelentles-20&linkId=43c636af601c16abb98a2e08c264ef6a){:target="_blank"}
+    * [Do - Purpose - why brands with a purpose do better and matter more](https://www.amazon.com/gp/product/190797413X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=190797413X&linkCode=as2&tag=stayrelentles-20&linkId=2a2efc275982395a94bb5673d6d2468b){:target="_blank"}
+    * [The Four-Hour Work week (Reread)](https://amzn.to/37VSXBh){:target="_blank"}
+    * [Girl, Wash Your Face](https://amzn.to/2IE1aSj){:target="_blank"}
+    * [Capitalism without Capital (Partial)](https://amzn.to/33XxAP5){:target="_blank"}
+    * [The Pumpkin Plan (Partial)](https://amzn.to/3gCm6pp){:target="_blank"}
+    * [Invested](https://amzn.to/344OZoS){:target="_blank"}
+    * [How to Talk so Kids Will Listen & Listen so Kids Will Talk](https://amzn.to/3m9HaV6){:target="_blank"}
+    * [Principles: Life and Work (Reread)](https://amzn.to/2JXhRbM){:target="_blank"}
 * I got better at speaking in front of camera and got slightly more creative. Thanks to my effort to share more on relationship/marriage/parenting through "Uncle Cheung", I practiced a lot of speaking in front of the camera. At first, it was a nightmare. I was nervous and I couldn’t even go beyond 2 lines. As I filmed myself more, I learned to treat the camera like a friend and to be okay with the imperfect me. Making mistakes is okay, and people actually love to see flaws! In terms of creativity, because I have to plan video topics and content, I have to keep my ideas fresh and different.
 * After being at First Code Academy for close to 4 years, where I became the COO and also the co-founder alongside Michelle, I decided it was time for a change. First Code had been the best time of my career and since I built everything up from the ground with Michelle, it was a very, very difficult decision to make. Seeing a more organized structure in the company compared to 4 years ago and a team of talented members, it was time for me to see what’s out there to continue develop myself to new heights.
 * I improved my swimming techniques in the first half of 2018, then I got into cycling in the second half. Not that I'm really good at all of them, I just felt self-empowered being able to run, swim, and cycle as a suite.
