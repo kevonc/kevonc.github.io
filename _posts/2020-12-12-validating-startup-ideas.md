@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Know If Your Startup Idea Is Worthwhile"
-slug: "evaluating-startup-ideas"
+slug: "validating-startup-ideas"
 description: "Validating your startup idea is important to increase your chance of success. Lots of founders jump to the user interview step and miss out an important step to evaluate the idea yourself."
 date: 2020-12-12 11:18
 categories: product
