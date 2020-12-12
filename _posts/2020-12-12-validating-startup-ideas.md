@@ -72,6 +72,8 @@ With these data points, we jumped in without thinking too much.
 
 It was one of the toughest calls I had to make.
 
+<img src="{{site.baseurl}}/assets/images/posts/toasty-matchmaking-web.png" alt="Toasty's matchmaking web platform" class="full-image">
+<p class="img-source">Toasty analyzes everyone's profile and recommends people we think you should meet.</p>
 
 ## What we learned about this business model
 
