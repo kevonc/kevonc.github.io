@@ -171,19 +171,9 @@ If not 10x better, then there is no point in working on this idea because it is 
 
 E.g. restaurant is a terrible audience to go after. ([See here](https://medium.com/build-something-cool/my-cofounder-said-i-love-what-were-doing-and-we-shut-down-our-startup-80d5e710c2b2)) If it requires salespeople to go door-to-door to get to the audience, the idea won't fly. Also, after focusing on a niche audience, it must be possible to expand to other groups.
 
-## Key lessons in these 6 months
-
-Back then, I was a problem searcher. What that meant was I wasn't solving problems I encountered or observed in my own life. On the contrary, I was obsessed with interviewing other people to find out what was painful in their lives or at their work. There were two main disadvantages to this approach:
-
-1. I didn't fully understand the entire picture, experience, and workflow. And to learn through user interviews was a long and expensive (time-wise) process, and I could still potentially get it all wrong.
-
-2. I thought that these problems were worth solving because other people confirmed my hypothesis. And that irrationally boosted my excitement for these ideas in the early days.
-
-The truth is - not all problems are worth solving.
-
 ## Over to you
 
-As founders, it is our role to evaluate an idea and the relevant hypotheses before wasting resources on building it.
+As a founder, it is your role to evaluate an idea and the relevant hypotheses before wasting resources on building it or even researching it. 
 
 Assume -> Validate -> Build -> Feedback. Repeat.
 
