@@ -16,7 +16,7 @@ But the founding stories of these successful startups were over simplified and g
 
 What I want to talk about here is: validation.
 
-In the last couple of years, mainly because of the Lean Startup movement, a lot of us founders are obsessed with talking to users and finding ways to quickly validate ideas.
+In the last couple of years, mainly because of the Lean Startup movement, a lot of us founders are obsessed with [talking to users]({% post_url 2020-11-22-customer-interviews-traps %}) and finding ways to quickly validate ideas.
 
 ## So, why I wrote this article
 
@@ -52,7 +52,7 @@ We built a matchmaking platform for conference-goers to screen and set up meetin
 
 Honestly, we had zero idea about "the problem" and "the solution".
 
-We ran about a dozen user interviews in the conference and exhibition space and we could see a trend emerging. Most organizers were searching for new technologies that could level up the attendee's experience. A good percentage of them had started using different products in the market but were not so happy about them and the outcomes.
+We ran about [a dozen user interviews]({% post_url 2020-11-22-customer-interviews-traps %}) in the conference and exhibition space and we could see a trend emerging. Most organizers were searching for new technologies that could level up the attendee's experience. A good percentage of them had started using different products in the market but were not so happy about them and the outcomes.
 
 We researched the space and the competitors and confirmed that there weren't many competitors in the space, but for the few existing players, we thought they were doing fairly well, built a solid brand, and had grown their team to about 30 people in a few years.
 
@@ -163,7 +163,7 @@ E.g. restaurant is a terrible audience to go after. ([See here](https://medium.c
 
 ## Over to you
 
-As a founder, it is your role to evaluate an idea and the relevant hypotheses before wasting resources on building it or even researching it. 
+As a founder, it is your role to evaluate an idea and the relevant hypotheses before wasting resources on building it, or even just researching it. 
 
 Assume -> Validate -> Build -> Feedback. Repeat.
 
