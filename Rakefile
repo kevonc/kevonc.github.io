@@ -71,11 +71,12 @@ task :post do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
-    post.puts 'description:'
+    post.puts "slug:\"\""
+    post.puts "description:\"\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "categories: #{category}"
     post.puts 'excerpt_separator: <!--more-->'
-    post.puts "tags: #{tags}"
+    # post.puts "tags: #{tags}"
     post.puts "---"
   end
 end # task :post
