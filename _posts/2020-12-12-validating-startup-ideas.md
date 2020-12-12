@@ -18,7 +18,7 @@ What I want to talk about here is: validation.
 <!--more-->
 In the last couple of years, mainly because of the Lean Startup movement, a lot of us founders are obsessed with talking to users and finding ways to quickly validate ideas.
 
-While I was thinking about this, I stumbled upon Jason Fried, founder of Basecamp, talking about validating ideas on Twitter. Let's listen to what he said in this 2-min video.
+While I was finalizing this post, I stumbled upon Jason Fried, founder of Basecamp, talking about validating ideas on Twitter. Let's listen to what he said in this 2-min video.
 
 <blockquote class="twitter-tweet" data-conversation="none" data-theme="light"><p lang="en" dir="ltr">Q: How do you discover and validate your ideas and how do you assess if an idea is worth executing? <a href="https://twitter.com/hashtag/askJF?src=hash&amp;ref_src=twsrc%5Etfw">#askJF</a><br>- <a href="https://twitter.com/hiasinho?ref_src=twsrc%5Etfw">@hiasinho</a><br><br>A: <a href="https://t.co/JsJpKKIEuO">pic.twitter.com/JsJpKKIEuO</a></p>&mdash; Jason Fried (@jasonfried) <a href="https://twitter.com/jasonfried/status/1337095209620946944?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
