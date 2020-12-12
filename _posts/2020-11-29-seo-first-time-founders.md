@@ -5,7 +5,7 @@ slug: "seo-first-time-founders"
 description: "As a first-time founder, you need to understand the importance of doing marketing early and how SEO plays a key role in building up sustainable traction for you."
 date: 2020-11-29 09:24
 categories: growth-marketing
-excerpt_separator: <!--more-->
+excerpt: "As a first-time founder, you need to understand the importance of doing marketing early and how SEO plays a key role in building up sustainable traction for you."
 redirect_from:
   - /seo-tips-articles-for-founders
 ---
@@ -17,8 +17,6 @@ And believe it or not. Most founders focus on product much more than marketing i
 So this article is for first-time founders to understand the importance of doing marketing early and how SEO plays a key role in building up sustainable traction for you.
 
 Watch out - this is not a detailed SEO article for technical SEO marketers.
-
-<!--more-->
 
 ***
 

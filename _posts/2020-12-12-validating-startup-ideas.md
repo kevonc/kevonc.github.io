@@ -2,10 +2,10 @@
 layout: post
 title: "How to Know If Your Startup Idea Is Worthwhile"
 slug: "validating-startup-ideas"
-description: "Validating your startup idea is important to increase your chance of success. Lots of founders jump to the user interview step and miss out an important step to evaluate the idea yourself."
+description: "Validating your startup idea is important to increase your chance of success. Lots of founders jump to the user interview step and miss out this one important step to evaluate the idea yourself."
 date: 2020-12-12 11:18
 categories: product
-excerpt_separator: <!--more-->
+excerpt: "Validating your startup idea is important to increase your chance of success. Lots of founders jump to the user interview step and miss out this one important step to evaluate the idea yourself."
 ---
 
 If you're thinking about the next big idea that matches or even beats Airbnb, Netflix, and Uber, then you're on the right track.
@@ -15,7 +15,7 @@ Entrepreneurs have to keep generating ideas because you never know which one wil
 But the founding stories of these successful startups were over simplified and glorified. Most of us would never hear about how many ideas and failed validations these founders had to go through in landing to this one business model.
 
 What I want to talk about here is: validation.
-<!--more-->
+
 In the last couple of years, mainly because of the Lean Startup movement, a lot of us founders are obsessed with talking to users and finding ways to quickly validate ideas.
 
 While I was finalizing this post, I stumbled upon Jason Fried, founder of Basecamp, talking about validating ideas on Twitter. Let's listen to what he said in this 2-min video.
