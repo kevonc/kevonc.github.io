@@ -167,6 +167,6 @@ As a founder, it is your role to evaluate an idea and the relevant hypotheses be
 
 Assume -> Validate -> Build -> Feedback. Repeat.
 
-And now with the number of #NoCode products out there, it is so easy for an individual or a small team of creators/makers/builders to test out validations quickly.
+And now with the number of #NoCode products out there, it is so easy for founders to run validations quickly.
 
 I've put these 8 questions onto [this Google Sheet](https://bit.ly/startup-idea-worthwhile) so you can clone and answer them honestly about your idea and see whether you still want to pursue it afterward. [Click here to download it.](https://bit.ly/startup-idea-worthwhile)
