@@ -175,20 +175,18 @@ E.g. restaurant is a terrible audience to go after. ([See here](https://medium.c
 
 Back then, I was a problem searcher. What that meant was I wasn't solving problems I encountered or observed in my own life. On the contrary, I was obsessed with interviewing other people to find out what was painful in their lives or at their work. There were two main disadvantages to this approach:
 
-I didn't fully understand the entire picture, experience, and workflow. And to learn through user interviews was a long and expensive (time-wise) process, and I could still potentially get it all wrong.
+1. I didn't fully understand the entire picture, experience, and workflow. And to learn through user interviews was a long and expensive (time-wise) process, and I could still potentially get it all wrong.
 
-I thought that these problems were worth solving because other people confirmed my hypothesis. And that irrationally boosted my excitement for these ideas in the early days.
+2. I thought that these problems were worth solving because other people confirmed my hypothesis. And that irrationally boosted my excitement for these ideas in the early days.
 
 The truth is - not all problems are worth solving.
 
 ## Over to you
 
-As founders, it is our role to evaluate the idea properly before wasting resources on building it.
-
-As opposed to raising funds, hiring a team, and building out the product to learn the truth, I've now preferred to run my ideas through this list, then talk to users and run small validation experiments to collect more data points.
+As founders, it is our role to evaluate an idea and the relevant hypotheses before wasting resources on building it.
 
 Assume -> Validate -> Build -> Feedback. Repeat.
 
-And now with the number of #NoCode products out there, it is so easy for an individual or a small team of creators/makers/builders to build out validations quickly.
+And now with the number of #NoCode products out there, it is so easy for an individual or a small team of creators/makers/builders to test out validations quickly.
 
-I've put these 8 questions onto [this Google Sheet](https://bit.ly/startup-idea-worthwhile) so you can answer them honestly about your idea and see whether you still want to pursue it afterward. [Click here to download it.](https://bit.ly/startup-idea-worthwhile)
+I've put these 8 questions onto [this Google Sheet](https://bit.ly/startup-idea-worthwhile) so you can clone and answer them honestly about your idea and see whether you still want to pursue it afterward. [Click here to download it.](https://bit.ly/startup-idea-worthwhile)
