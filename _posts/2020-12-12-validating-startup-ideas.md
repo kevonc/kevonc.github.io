@@ -131,7 +131,7 @@ So reflecting back, I came up with this list to help me evaluate future ideas.
 
 ### 1. Is my idea part of a global trend? 
 
-It is much better to ride with the wave than to go against it. Look at how Zapier plays right in the global trend of using APIs to enhance user experience.
+It is much better to ride with the wave than to go against it. Look at [how Zapier plays right in the global trend of using APIs](https://saasmarketer.io/saas-partnership-strategy/) to enhance user experience.
 
 ### 2. Is the product easy to use? Can users self-onboard?  
 
