@@ -7,11 +7,11 @@ tagline: "life is too short not to try everything"
 tags: [life, advice, reflection]
 ---
 
-Last night, I had an amazing dinner with my family at this restaurant called 四川菜大平伙 SiChuan Da Ping Huo. 
+Last night, I had an amazing dinner with my family at this restaurant called SiChuan Da Ping Huo. Obviously a very spicy place.
 
-Why was it so amazing? Simply because the food was spicy and yummy and the price was way beyond reasonable. For $320 (+10% SC) per person, you get to enjoy the authentic sichuan cuisine!
+Why was it so amazing? Because the food was spicy and yummy and the price was beyond reasonable. For HKD$320 (+10%) per person, you get to enjoy the authentic sichuan cuisine!
 
-Using simple ingredient such as eggplant, potato, tofu, Da Ping Huo brought out the best side of them. 
+The best part was the use of simple ingredient such as eggplant, potato, and tofu to create the dishes. Da Ping Huo brought out the best side of them. 
 
 Well, and I realized a restaurant can really relate to business or startup (because restaurant is a business of course haha). Having luxurious ingredients is like having a brilliant business idea. 
 
