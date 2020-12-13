@@ -18,9 +18,9 @@ In parallel, for the first time since graduating from university, I felt that I 
 ## What happened in 2018
 * I got engaged! I have to say I’m a lucky person to have met Lydia; not just because we’re becoming husband and wife, it is also because we’re in a really, really great relationship. Friends around us continue to ask the two of us questions like - how do you know he/she is the one? How do you have such a good relationship? Do you two even argue? I’m most grateful for our approach and mutual understanding in this relationship, I think that makes all the difference.
 * Compared to 2017, I read slightly more in 2018 (mainly because I only managed to read 6 books in 2017). You can tell from the list that it was a bit all over the place. That’s right, I wanted to diversify my knowledge base instead of only focusing on business/management/leadership books. I learned 2 lessons from reading this year: 1) how to read multiple books at the same time and 2) how to skim through a book for the key highlights instead of reading word to word. These methods actually make me happier and want to read more.
-    * [Lost and Founder](https://www.amazon.com/gp/product/0735213321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735213321&linkCode=as2&tag=stayrelentles-20&linkId=d59018c5782ac1bbf07a236a92d9cb61){:target="_blank"}
-    * [Profit First](https://www.amazon.com/gp/product/073521414X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=073521414X&linkCode=as2&tag=stayrelentles-20&linkId=43c636af601c16abb98a2e08c264ef6a){:target="_blank"}
-    * [Do - Purpose - why brands with a purpose do better and matter more](https://www.amazon.com/gp/product/190797413X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=190797413X&linkCode=as2&tag=stayrelentles-20&linkId=2a2efc275982395a94bb5673d6d2468b){:target="_blank"}
+    * [Lost and Founder](https://amzn.to/3oMbwiq){:target="_blank"}
+    * [Profit First](https://amzn.to/3nhGY7C){:target="_blank"}
+    * [Do - Purpose - why brands with a purpose do better and matter more](https://amzn.to/37bLyP7){:target="_blank"}
     * [The Four-Hour Work week (Reread)](https://amzn.to/37VSXBh){:target="_blank"}
     * [Girl, Wash Your Face](https://amzn.to/2IE1aSj){:target="_blank"}
     * [Capitalism without Capital (Partial)](https://amzn.to/33XxAP5){:target="_blank"}
