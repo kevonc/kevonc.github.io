@@ -16,7 +16,7 @@ But the founding stories of these successful startups were over simplified and g
 
 What I want to talk about here is: validation.
 
-In the last couple of years, mainly because of the Lean Startup movement, a lot of us founders are obsessed with [talking to users]({% post_url 2020-11-22-customer-interviews-traps %}) and finding ways to quickly validate ideas.
+In the last couple of years, mainly because of the Lean Startup movement, a lot of us founders are obsessed with [talking to users]({% post_url 2020-11-22-customer-interviews-traps %}){:target="_blank"} and finding ways to quickly validate ideas.
 
 ## So, why I wrote this article
 
@@ -52,7 +52,7 @@ We built a matchmaking platform for conference-goers to screen and set up meetin
 
 Honestly, we had zero idea about "the problem" and "the solution".
 
-We ran about [a dozen user interviews]({% post_url 2020-11-22-customer-interviews-traps %}) in the conference and exhibition space and we could see a trend emerging. Most organizers were searching for new technologies that could level up the attendee's experience. A good percentage of them had started using different products in the market but were not so happy about them and the outcomes.
+We ran about [a dozen user interviews]({% post_url 2020-11-22-customer-interviews-traps %}){% include midpost-subscribe.html %} in the conference and exhibition space and we could see a trend emerging. Most organizers were searching for new technologies that could level up the attendee's experience. A good percentage of them had started using different products in the market but were not so happy about them and the outcomes.
 
 We researched the space and the competitors and confirmed that there weren't many competitors in the space, but for the few existing players, we thought they were doing fairly well, built a solid brand, and had grown their team to about 30 people in a few years.
 
@@ -127,11 +127,13 @@ When competition in each segment is fierce, we must pick ideas that have a bette
 
 So reflecting back, I came up with this list to help me evaluate future ideas.
 
+{% include midpost-subscribe.html %}
+
 ## How I'd evaluate my future startup ideas
 
 ### 1. Is my idea part of a global trend? 
 
-It is much better to ride with the wave than to go against it. Look at [how Zapier plays right in the global trend of using APIs](https://saasmarketer.io/saas-partnership-strategy/) to enhance user experience.
+It is much better to ride with the wave than to go against it. Look at [how Zapier plays right in the global trend of using APIs](https://saasmarketer.io/saas-partnership-strategy/){:target="_blank"} to enhance user experience.
 
 ### 2. Is the product easy to use? Can users self-onboard?  
 
@@ -159,7 +161,7 @@ If not 10x better, then there is no point in working on this idea because it is 
 
 ### 8. **How easy is it to get to the target audience? How big is the market?** 
 
-E.g. restaurant is a terrible audience to go after. ([See here](https://medium.com/build-something-cool/my-cofounder-said-i-love-what-were-doing-and-we-shut-down-our-startup-80d5e710c2b2)) If it requires salespeople to go door-to-door to get to the audience, the idea won't fly. Also, after focusing on a niche audience, it must be possible to expand to other groups.
+E.g. restaurant is a terrible audience to go after. ([See here](https://medium.com/build-something-cool/my-cofounder-said-i-love-what-were-doing-and-we-shut-down-our-startup-80d5e710c2b2){:target="_blank"}) If it requires salespeople to go door-to-door to get to the audience, the idea won't fly. Also, after focusing on a niche audience, it must be possible to expand to other groups.
 
 ## Over to you
 
@@ -169,4 +171,4 @@ Assume -> Validate -> Build -> Feedback. Repeat.
 
 And now with the number of #NoCode products out there, it is so easy for founders to run validations quickly.
 
-I've put these 8 questions onto [this Google Sheet](https://bit.ly/startup-idea-worthwhile) so you can clone and answer them honestly about your idea and see whether you still want to pursue it afterward. [Click here to download it.](https://bit.ly/startup-idea-worthwhile)
+I've put these 8 questions onto [this Google Sheet](https://bit.ly/startup-idea-worthwhile){:target="_blank"} so you can clone and answer them honestly about your idea and see whether you still want to pursue it afterward. [Click here to download it.](https://bit.ly/startup-idea-worthwhile){:target="_blank"}
