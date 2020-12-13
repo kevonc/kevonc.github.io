@@ -139,7 +139,7 @@ This makes sure the rate of growth can be exponential. A product that raises the
 
 ### 3. Is it easy for people to tell their colleagues or friends? Can they try it out immediately? 
 
-The moment right after "word of mouth" is the best timing to capture interest because it is still in their minds.
+The moment right after "word of mouth", when someone just hear about your product from another person, is the best timing to capture interest. They should be able to try out right away.
 
 ### 4. How long is time to value or AHA moment? Can users use it in seconds, minutes, or days and weeks? 
 
