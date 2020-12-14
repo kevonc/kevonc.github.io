@@ -582,6 +582,24 @@ blockquote {
     margin-top: 48px;
     margin-left: 50px;
   }
+  .subscribe {
+    li {
+      margin-top: 20px;
+      text-align: center;
+      padding: 10px 12px;
+      background-color: $colorPrimary;
+      border-radius: 4px;
+      font-size: 0.9em;
+      font-weight: 700;
+      line-height: 22px;
+      color: #fff;
+      cursor: pointer;
+      &:hover {
+        text-decoration: none;
+        background-color: lighten($colorPrimary, 5);
+      }
+    }
+  }
 }
 
 #menuToggle {

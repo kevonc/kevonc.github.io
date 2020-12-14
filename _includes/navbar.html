@@ -30,7 +30,6 @@
 		<li><a href="https://twitter.com/kevon69" target="_blank">Twitter</a></li>
 		<li><a href="/contact">Contact</a></li>
 	</ul>
-
 </div>
 
 <nav role="navigation" id="mobileNav">
@@ -62,17 +61,16 @@
 			<a href="/speaking"><li>Speaking</li></a>
 			<a href="https://twitter.com/kevon69"><li>Twitter</li></a>
 			<a href="/contact"><li>Contact</li></a>
+	    <a href="/newsletters" class="subscribe"><li>Join My Newsletter if You Enjoy</li></a>
     </ul>
+
   </div>
 
- 	{% if page.title %}
 	<a href="{{ HOME_PATH }}">
-		<h4 class="site-name"><strong>Kevon Cheung</strong></h4>
+	 	{% if page.title %}
+			<h4 class="site-name"><strong>Kevon Cheung</strong></h4>
+		{% else %}
+			<h1 class="site-name"><strong>Kevon Cheung</strong></h1>
+		{% endif %}
 	</a>
-	{% else %}
-	<a href="{{ HOME_PATH }}">
-		<h1 class="site-name"><strong>Kevon Cheung</strong></h1>
-	</a>
-	{% endif %}
-
 </nav>
