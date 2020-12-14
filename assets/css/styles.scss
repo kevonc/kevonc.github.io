@@ -77,7 +77,14 @@ body {
     margin-bottom: 20px;
   }
   .sidebar-subscription {
-    margin-bottom: 20px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    padding: 14px 2px;
+    border: 1px dashed $colorSecondary;
+    p {
+      margin: 0;
+      padding: 0 0 4px 0;
+    }
   }
   .navigation {
     margin-bottom: 0;
