@@ -52,7 +52,7 @@ We built a matchmaking platform for conference-goers to screen and set up meetin
 
 Honestly, we had zero idea about "the problem" and "the solution".
 
-We ran about [a dozen user interviews]({% post_url 2020-11-22-customer-interviews-traps %}){% include midpost-subscribe.html %} in the conference and exhibition space and we could see a trend emerging. Most organizers were searching for new technologies that could level up the attendee's experience. A good percentage of them had started using different products in the market but were not so happy about them and the outcomes.
+We ran about [a dozen user interviews]({% post_url 2020-11-22-customer-interviews-traps %}) in the conference and exhibition space and we could see a trend emerging. Most organizers were searching for new technologies that could level up the attendee's experience. A good percentage of them had started using different products in the market but were not so happy about them and the outcomes.
 
 We researched the space and the competitors and confirmed that there weren't many competitors in the space, but for the few existing players, we thought they were doing fairly well, built a solid brand, and had grown their team to about 30 people in a few years.
 
