@@ -133,7 +133,12 @@ So reflecting back, I came up with this list to help me evaluate future ideas.
 
 ### 1. Is my idea part of a global trend? 
 
-It is much better to ride with the wave than to go against it. Look at [how Zapier plays right in the global trend of using APIs](https://saasmarketer.io/saas-partnership-strategy/){:target="_blank"} to enhance user experience.
+It is much better to ride with the wave than to go against it. Zapier played right in the global trend of booming Marketing Technology when they started in 2011. What did they do? They connected all these platforms.
+
+<img src="{{site.baseurl}}/assets/images/posts/zapier-martech-landscape-2011-2020.jpg" alt="Matchmaking is not top of the organizer's mind" class="full-image">
+<span class="img-source">
+	Source: [SaaS Marketer](https://saasmarketer.io/saas-partnership-strategy){:target="_blank"}
+</span>
 
 ### 2. Is the product easy to use? Can users self-onboard?  
 
@@ -143,7 +148,7 @@ This makes sure the rate of growth can be exponential. A product that raises the
 
 The moment right after "word of mouth", when someone just hear about your product from another person, is the best timing to capture interest. They should be able to try out right away.
 
-### 4. How long is time to value or AHA moment? Can users use it in seconds, minutes, or days and weeks? 
+### 4. How long is the time to value or AHA moment? Can users use it in seconds, minutes, or days and weeks? 
 
 The shorter time to value, the more likely for users to fall in love with the product.
 
