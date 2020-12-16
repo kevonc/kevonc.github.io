@@ -125,7 +125,7 @@ The world has changed a lot, now we wouldn't want to work on this type of idea b
 
 When competition in each segment is fierce, we must pick ideas that have a better chance of success.
 
-So reflecting back, I came up with this list to help me evaluate future ideas.
+So reflecting back, I came up with this list to help me evaluate future ideas (especially for B2B SaaS).
 
 {% include midpost-subscribe.html %}
 
