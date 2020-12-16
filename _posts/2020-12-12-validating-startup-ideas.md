@@ -176,6 +176,6 @@ Assume -> Validate -> Build -> Feedback. Repeat.
 
 And now with the number of #NoCode products out there, it is so easy for founders to run validations quickly.
 
-Of course, after the hard lesson here, we pivoted to a product that was part of the global trend, easy to use, fast to spread, and quick to value. [Toasty](https://toasty.ai/){:target="_blank"} is now a video meeting platform focused on collaboration and engagement and is getting a lot more users than the matchmaking platform. One thing you should know, I stepped down from my CEO role in Oct 2020.
+Of course, after the hard lesson here, we pivoted to a product that was part of the global trend, easy to use, fast to spread, and quick to value. [Toasty](https://toasty.ai/){:target="_blank"} is now a video meeting platform focused on collaboration and engagement and is getting a lot more users than the matchmaking platform. A sidenote, I stepped down from my CEO role in Oct 2020 and Eric Tsang is now leading the team.
 
 To wrap this up, I've put these 8 questions onto [this Google Sheet](https://bit.ly/startup-idea-worthwhile){:target="_blank"} so you can clone and answer them honestly about your idea and see whether you still want to pursue it afterward. [Click here to download it.](https://bit.ly/startup-idea-worthwhile){:target="_blank"}
