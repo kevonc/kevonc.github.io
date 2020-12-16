@@ -125,11 +125,11 @@ The world has changed a lot, now we wouldn't want to work on this type of idea b
 
 When competition in each segment is fierce, we must pick ideas that have a better chance of success.
 
-So reflecting back, I came up with this list to help me evaluate future ideas (especially for B2B SaaS).
+So reflecting back, I came up with this list to help me evaluate future ideas.
 
 {% include midpost-subscribe.html %}
 
-## How I'd evaluate my future startup ideas
+## How I'd evaluate my future startup ideas (especially for B2B SaaS)
 
 ### 1. Is my idea part of a global trend? 
 
