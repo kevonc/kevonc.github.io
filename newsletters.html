@@ -11,49 +11,17 @@ collection: newsletters
 {% include subscribe.html %}
 
 <h2>Past Issues</h2>
+<br>
 
 <div class="archive">
   {% assign sorted = site.newsletters | sort: 'date' | reverse %}
   {% for letter in sorted %}
-    {% capture this_year %}{{ letter.date | date: "%Y" }}{% endcapture %}
-    {% capture this_month %}{{ letter.date | date: "%B" }}{% endcapture %}
-    {% capture next_year %}{{ letter.previous.date | date: "%Y" }}{% endcapture %}
-    {% capture next_month %}{{ letter.previous.date | date: "%B" }}{% endcapture %}
-  
-    {% if forloop.first %}
-      <h2 class="year">{{this_year}}</h2>
-      <ul class="posts">
-    {% endif %}
-  
-    <li>
-      <div class="post-date">
-        <p>
-          {{ letter.date | date: "%b" }}
-          <span>{{ letter.date | date: "%d" }}</span>
-        </p>
-      </div>
       <div class="post-info">
-        <p>
+        <h4 class="title">
           <a href="{{ BASE_PATH }}{{ letter.url }}">{{ letter.title }}</a>
-        </p>
+        </h4>
+        <hr>
       </div>
-
-    </li>
-  
-    {% if forloop.last %}
-      </ul>
-    {% else %}
-      {% if this_year != next_year %}
-        </ul>
-        <h2 class="year">{{next_year}}</h2>
-        <ul class="posts">
-      {% else %}    
-        {% if this_month != next_month %}
-          </ul>
-          <ul class="posts">
-        {% endif %}
-      {% endif %}
-    {% endif %}
   {% endfor %}
 </div>
 
